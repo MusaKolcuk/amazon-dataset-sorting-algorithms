@@ -1,0 +1,1352 @@
+product_id,product_name,price,sales_quantity,stock_quantity,brand,category
+605,Elegant Bookshelf (Home & Kitchen),10.26,65,8,Samsung,Electronics
+28,Elegant Blender (Home & Kitchen),11.16,32,84,Adidas,Clothing
+126,Smart Smartwatch (Home & Kitchen),11.26,52,135,Samsung,Sports & Outdoors
+524,Durable Blender (Beauty),11.58,64,78,Adidas,Beauty
+707,Smart Cookware Set (Beauty),12.33,37,194,Puma,Home & Kitchen
+790,Durable Blender (Books),12.48,88,182,Adidas,Books
+643,Premium Bookshelf (Books),12.94,41,15,Adidas,Books
+564,Durable Cookware Set (Beauty),13.01,32,44,Sony,Sports & Outdoors
+236,Comfortable Sneakers (Books),13.49,45,173,Maybelline,Home & Kitchen
+119,Modern Yoga Mat (Electronics),13.5,100,31,Puma,Books
+1100,Elegant Yoga Mat (Sports & Outdoors),13.74,48,122,Sony,Home & Kitchen
+529,Modern Skincare Set (Books),18.15,43,92,Samsung,Beauty
+1140,Innovative Sneakers (Sports & Outdoors),18.91,69,66,Adidas,Clothing
+1337,Modern Smartwatch (Electronics),19.35,31,179,Sony,Beauty
+346,Smart Sneakers (Sports & Outdoors),20.4,23,102,Samsung,Home & Kitchen
+1345,Comfortable Skincare Set (Home & Kitchen),20.88,55,70,Nike,Home & Kitchen
+580,Comfortable Smartwatch (Home & Kitchen),21.85,68,97,Sony,Clothing
+935,Modern Yoga Mat (Electronics),22.61,13,137,Samsung,Sports & Outdoors
+763,Comfortable Sneakers (Clothing),22.71,28,46,Adidas,Sports & Outdoors
+398,Smart Bookshelf (Sports & Outdoors),23.13,52,107,Apple,Sports & Outdoors
+942,Elegant Cookware Set (Home & Kitchen),23.3,12,121,Apple,Electronics
+719,Modern Sneakers (Books),24.34,31,141,Samsung,Beauty
+68,Innovative Headphones (Beauty),26.7,42,62,Adidas,Beauty
+1142,Classic Skincare Set (Books),27.2,56,141,Puma,Beauty
+1248,Smart Bookshelf (Electronics),27.75,90,43,AmazonBasics,Books
+1152,Smart Bookshelf (Books),28.18,1,101,L'Oréal,Home & Kitchen
+1257,Classic Blender (Beauty),29.13,87,78,Puma,Home & Kitchen
+573,Premium Smartwatch (Books),31.73,14,35,Apple,Sports & Outdoors
+421,Elegant Smartwatch (Beauty),32.7,70,13,AmazonBasics,Home & Kitchen
+633,Durable Sneakers (Clothing),33.41,29,30,Apple,Sports & Outdoors
+59,Comfortable Yoga Mat (Electronics),33.78,75,86,Puma,Books
+662,Premium Sneakers (Books),34.12,86,15,Nike,Sports & Outdoors
+457,Classic Headphones (Beauty),34.38,25,33,Adidas,Sports & Outdoors
+1003,Durable Bookshelf (Beauty),34.58,8,114,Sony,Home & Kitchen
+1139,Elegant Blender (Books),34.79,30,176,AmazonBasics,Clothing
+608,Classic Blender (Beauty),35.89,72,100,Puma,Clothing
+1007,Premium Skincare Set (Sports & Outdoors),36.33,78,32,KitchenAid,Beauty
+754,Durable Blender (Home & Kitchen),37.05,33,52,Puma,Home & Kitchen
+324,Smart Headphones (Beauty),37.69,91,93,Apple,Books
+1145,Durable Blender (Home & Kitchen),38.53,31,193,Nike,Home & Kitchen
+1317,Modern Bookshelf (Home & Kitchen),40.02,7,106,L'Oréal,Books
+1230,Elegant Blender (Books),40.83,74,102,Samsung,Home & Kitchen
+494,Classic Yoga Mat (Books),40.99,17,32,Nike,Books
+1060,Comfortable Sneakers (Sports & Outdoors),41.2,68,11,Adidas,Clothing
+755,Smart Sneakers (Books),41.34,10,120,Sony,Electronics
+1009,Classic Sneakers (Beauty),41.99,88,190,Nike,Beauty
+469,Innovative Skincare Set (Clothing),42.48,14,69,Maybelline,Books
+303,Classic Blender (Books),42.67,2,192,Adidas,Sports & Outdoors
+555,Classic Smartwatch (Home & Kitchen),42.94,33,37,L'Oréal,Books
+689,Durable Headphones (Sports & Outdoors),43.45,6,123,Maybelline,Clothing
+799,Elegant Bookshelf (Sports & Outdoors),43.54,82,193,AmazonBasics,Beauty
+356,Premium Smartwatch (Clothing),44.75,77,110,L'Oréal,Sports & Outdoors
+178,Modern Skincare Set (Beauty),45.55,56,52,Adidas,Clothing
+549,Comfortable Headphones (Clothing),45.75,80,159,Apple,Home & Kitchen
+945,Modern Smartwatch (Electronics),46.15,71,178,KitchenAid,Books
+1051,Durable Bookshelf (Home & Kitchen),46.86,72,124,Adidas,Electronics
+1334,Modern Sneakers (Clothing),47.18,28,82,Maybelline,Clothing
+1144,Innovative Skincare Set (Electronics),47.76,32,173,Samsung,Books
+480,Premium Smartwatch (Clothing),49.85,61,2,Adidas,Books
+1228,Comfortable Sneakers (Beauty),50.24,54,44,Apple,Electronics
+378,Premium Skincare Set (Books),51.23,56,174,Apple,Sports & Outdoors
+1065,Elegant Smartwatch (Books),52.06,68,159,Adidas,Clothing
+269,Premium Yoga Mat (Electronics),55.38,32,130,AmazonBasics,Sports & Outdoors
+32,Comfortable Bookshelf (Books),56.01,8,22,AmazonBasics,Clothing
+418,Smart Headphones (Beauty),56.12,18,30,KitchenAid,Home & Kitchen
+610,Innovative Blender (Home & Kitchen),57.38,47,61,Apple,Books
+87,Durable Skincare Set (Clothing),57.52,1,136,L'Oréal,Books
+680,Classic Cookware Set (Electronics),58.9,3,135,Puma,Electronics
+153,Elegant Headphones (Electronics),60.13,71,67,Maybelline,Clothing
+1048,Smart Skincare Set (Books),60.61,86,65,L'Oréal,Home & Kitchen
+545,Elegant Bookshelf (Home & Kitchen),61.23,80,187,Puma,Electronics
+859,Smart Blender (Books),62.46,7,172,Samsung,Books
+1197,Premium Sneakers (Electronics),63.03,13,34,Samsung,Books
+1173,Comfortable Blender (Beauty),63.94,87,174,Nike,Beauty
+704,Premium Bookshelf (Sports & Outdoors),64.44,34,60,Puma,Sports & Outdoors
+888,Innovative Headphones (Beauty),65.67,10,138,Maybelline,Clothing
+764,Smart Skincare Set (Sports & Outdoors),65.89,93,78,KitchenAid,Home & Kitchen
+579,Modern Cookware Set (Beauty),66.56,45,143,Adidas,Beauty
+597,Modern Sneakers (Sports & Outdoors),67.07,57,33,Nike,Home & Kitchen
+1186,Innovative Yoga Mat (Books),68.06,68,176,Puma,Home & Kitchen
+297,Durable Bookshelf (Sports & Outdoors),68.81,98,77,L'Oréal,Sports & Outdoors
+472,Modern Yoga Mat (Sports & Outdoors),68.96,62,144,AmazonBasics,Home & Kitchen
+533,Comfortable Bookshelf (Beauty),69.32,5,149,AmazonBasics,Electronics
+572,Comfortable Blender (Beauty),69.64,37,101,Nike,Home & Kitchen
+1153,Comfortable Yoga Mat (Beauty),69.95,8,43,Adidas,Clothing
+25,Classic Yoga Mat (Sports & Outdoors),70.16,5,83,Puma,Electronics
+63,Classic Headphones (Home & Kitchen),71.04,39,66,AmazonBasics,Books
+760,Durable Sneakers (Beauty),71.35,77,161,Puma,Sports & Outdoors
+1314,Innovative Cookware Set (Sports & Outdoors),71.46,45,189,Nike,Electronics
+667,Durable Smartwatch (Sports & Outdoors),72.34,32,151,Apple,Books
+730,Classic Sneakers (Clothing),72.65,1,53,Sony,Clothing
+899,Classic Bookshelf (Books),73.29,8,36,Sony,Clothing
+134,Smart Blender (Beauty),73.83,30,113,Puma,Home & Kitchen
+639,Innovative Cookware Set (Sports & Outdoors),76.13,93,3,L'Oréal,Sports & Outdoors
+998,Premium Skincare Set (Beauty),76.95,29,186,KitchenAid,Home & Kitchen
+961,Elegant Yoga Mat (Sports & Outdoors),77.23,3,120,Puma,Books
+350,Innovative Headphones (Electronics),77.32,26,195,Apple,Sports & Outdoors
+589,Innovative Blender (Electronics),77.64,27,102,Apple,Beauty
+728,Classic Skincare Set (Books),77.94,98,161,Adidas,Sports & Outdoors
+1,Durable Bookshelf (Clothing),78.25,19,65,Sony,Beauty
+823,Smart Yoga Mat (Home & Kitchen),79.83,69,122,AmazonBasics,Electronics
+598,Modern Bookshelf (Beauty),80.06,37,137,Adidas,Home & Kitchen
+401,Comfortable Sneakers (Clothing),80.41,67,33,Puma,Electronics
+837,Innovative Yoga Mat (Home & Kitchen),80.51,27,49,Adidas,Electronics
+748,Modern Smartwatch (Sports & Outdoors),81.13,2,129,Nike,Books
+1102,Elegant Headphones (Sports & Outdoors),81.76,48,10,Puma,Home & Kitchen
+50,Modern Yoga Mat (Beauty),81.93,62,107,Puma,Clothing
+980,Durable Sneakers (Clothing),82.16,22,148,Apple,Clothing
+380,Premium Sneakers (Home & Kitchen),82.64,47,77,Sony,Home & Kitchen
+684,Premium Smartwatch (Sports & Outdoors),83.71,9,63,Puma,Home & Kitchen
+745,Premium Blender (Electronics),83.82,99,28,Puma,Electronics
+1216,Modern Yoga Mat (Books),84.63,82,70,KitchenAid,Books
+308,Comfortable Sneakers (Electronics),88.25,45,43,KitchenAid,Beauty
+612,Premium Yoga Mat (Beauty),88.46,55,84,Maybelline,Sports & Outdoors
+1265,Smart Skincare Set (Clothing),90.74,56,158,Apple,Sports & Outdoors
+686,Classic Blender (Home & Kitchen),91.61,88,93,Apple,Books
+1131,Comfortable Headphones (Books),91.93,77,49,L'Oréal,Books
+139,Innovative Yoga Mat (Sports & Outdoors),92.88,68,49,Adidas,Clothing
+1320,Innovative Smartwatch (Books),93.38,16,126,Apple,Books
+1059,Modern Sneakers (Clothing),93.85,76,181,Puma,Home & Kitchen
+256,Classic Skincare Set (Beauty),93.97,87,178,Sony,Clothing
+611,Innovative Yoga Mat (Clothing),96.26,64,64,Sony,Electronics
+96,Innovative Yoga Mat (Books),97.18,3,80,Puma,Beauty
+646,Durable Yoga Mat (Sports & Outdoors),97.4,30,86,Sony,Electronics
+1339,Comfortable Smartwatch (Books),98.2,31,108,Nike,Sports & Outdoors
+787,Modern Cookware Set (Books),98.69,61,26,Samsung,Beauty
+52,Premium Sneakers (Home & Kitchen),99.13,71,77,KitchenAid,Beauty
+195,Innovative Cookware Set (Home & Kitchen),99.39,34,195,L'Oréal,Electronics
+330,Modern Headphones (Books),99.73,26,146,Sony,Sports & Outdoors
+338,Classic Cookware Set (Beauty),100.57,55,142,Maybelline,Clothing
+1095,Modern Sneakers (Sports & Outdoors),100.6,20,45,Puma,Beauty
+1326,Innovative Bookshelf (Home & Kitchen),101.19,89,188,Adidas,Sports & Outdoors
+1290,Comfortable Smartwatch (Sports & Outdoors),102.26,50,8,AmazonBasics,Beauty
+1187,Durable Sneakers (Electronics),103.08,43,132,Nike,Home & Kitchen
+1305,Smart Headphones (Sports & Outdoors),103.92,55,130,Puma,Sports & Outdoors
+785,Elegant Yoga Mat (Home & Kitchen),103.93,74,89,L'Oréal,Beauty
+155,Modern Blender (Beauty),106.51,17,42,KitchenAid,Electronics
+814,Premium Headphones (Beauty),106.7,69,76,Adidas,Books
+671,Premium Blender (Electronics),106.95,93,154,L'Oréal,Electronics
+316,Modern Yoga Mat (Home & Kitchen),107.23,59,128,Samsung,Clothing
+1110,Premium Yoga Mat (Books),109.27,53,46,Puma,Beauty
+1069,Classic Smartwatch (Home & Kitchen),109.64,57,81,Puma,Home & Kitchen
+227,Classic Yoga Mat (Electronics),109.77,93,111,Apple,Clothing
+167,Elegant Yoga Mat (Books),110.49,4,138,Maybelline,Beauty
+321,Innovative Cookware Set (Electronics),112.22,1,166,Apple,Electronics
+39,Comfortable Skincare Set (Clothing),112.23,4,93,Adidas,Home & Kitchen
+687,Elegant Blender (Beauty),115.43,42,83,Nike,Sports & Outdoors
+925,Premium Cookware Set (Sports & Outdoors),116.15,72,192,Maybelline,Electronics
+1018,Elegant Sneakers (Books),116.35,72,65,Nike,Books
+594,Premium Sneakers (Books),117.27,26,92,Maybelline,Electronics
+298,Comfortable Blender (Sports & Outdoors),118.66,33,25,KitchenAid,Sports & Outdoors
+347,Premium Headphones (Home & Kitchen),119.27,22,94,L'Oréal,Clothing
+266,Innovative Cookware Set (Electronics),120.29,5,101,L'Oréal,Electronics
+317,Smart Blender (Home & Kitchen),120.85,40,112,Apple,Sports & Outdoors
+788,Innovative Blender (Books),120.85,82,89,Adidas,Books
+294,Modern Smartwatch (Sports & Outdoors),122.82,53,34,Apple,Clothing
+847,Durable Sneakers (Sports & Outdoors),123.9,69,128,L'Oréal,Beauty
+1040,Classic Skincare Set (Home & Kitchen),124.03,22,198,L'Oréal,Electronics
+985,Premium Yoga Mat (Books),124.15,21,113,Maybelline,Sports & Outdoors
+1319,Modern Sneakers (Sports & Outdoors),124.36,41,75,Samsung,Beauty
+992,Comfortable Smartwatch (Books),125.2,75,178,Apple,Books
+1321,Classic Smartwatch (Clothing),127.08,51,169,KitchenAid,Home & Kitchen
+581,Durable Headphones (Home & Kitchen),128.8,83,199,Puma,Home & Kitchen
+1143,Modern Yoga Mat (Electronics),128.9,79,54,Samsung,Clothing
+367,Comfortable Sneakers (Clothing),129.27,41,139,L'Oréal,Books
+1287,Elegant Smartwatch (Beauty),129.61,59,152,Maybelline,Home & Kitchen
+174,Smart Cookware Set (Electronics),130.19,14,77,Sony,Clothing
+485,Innovative Smartwatch (Sports & Outdoors),132.15,31,12,KitchenAid,Electronics
+51,Comfortable Blender (Beauty),132.65,92,160,L'Oréal,Electronics
+282,Classic Skincare Set (Beauty),132.75,83,90,KitchenAid,Sports & Outdoors
+959,Smart Sneakers (Sports & Outdoors),132.88,65,50,Nike,Sports & Outdoors
+604,Classic Blender (Beauty),133.02,66,144,Samsung,Home & Kitchen
+1297,Innovative Headphones (Electronics),134.2,71,58,KitchenAid,Electronics
+879,Elegant Bookshelf (Clothing),135.16,96,73,Sony,Books
+1233,Premium Bookshelf (Home & Kitchen),135.26,79,137,Samsung,Books
+130,Innovative Bookshelf (Books),135.32,4,175,Puma,Electronics
+171,Comfortable Yoga Mat (Sports & Outdoors),136.28,59,120,Adidas,Home & Kitchen
+919,Elegant Skincare Set (Books),137.05,75,180,AmazonBasics,Books
+560,Durable Smartwatch (Sports & Outdoors),137.47,89,35,Maybelline,Books
+534,Elegant Smartwatch (Electronics),138.1,57,15,Nike,Electronics
+164,Comfortable Sneakers (Beauty),138.42,39,182,Nike,Electronics
+20,Elegant Skincare Set (Beauty),139.9,53,149,AmazonBasics,Sports & Outdoors
+154,Smart Smartwatch (Beauty),140.38,78,114,AmazonBasics,Electronics
+729,Classic Yoga Mat (Sports & Outdoors),140.48,46,176,L'Oréal,Home & Kitchen
+263,Elegant Yoga Mat (Electronics),142.82,13,77,L'Oréal,Home & Kitchen
+1263,Elegant Cookware Set (Books),143.8,90,189,Maybelline,Sports & Outdoors
+550,Innovative Cookware Set (Electronics),144.16,91,193,Maybelline,Books
+221,Premium Blender (Clothing),144.25,68,198,Adidas,Electronics
+1325,Durable Cookware Set (Home & Kitchen),145.07,72,95,Apple,Beauty
+1299,Comfortable Blender (Beauty),145.21,46,139,Samsung,Beauty
+361,Classic Yoga Mat (Clothing),146.05,95,38,Apple,Home & Kitchen
+434,Premium Cookware Set (Home & Kitchen),147.55,18,49,AmazonBasics,Beauty
+568,Comfortable Skincare Set (Clothing),148.3,56,190,L'Oréal,Electronics
+708,Smart Smartwatch (Books),149.23,19,169,Samsung,Books
+129,Smart Sneakers (Books),149.88,52,177,Adidas,Clothing
+1068,Smart Headphones (Home & Kitchen),150.5,37,102,Apple,Electronics
+1114,Smart Blender (Clothing),151.92,86,96,Apple,Sports & Outdoors
+927,Durable Bookshelf (Electronics),153.14,71,69,Puma,Electronics
+431,Premium Headphones (Sports & Outdoors),153.15,61,62,AmazonBasics,Clothing
+349,Elegant Smartwatch (Home & Kitchen),153.87,16,122,Samsung,Sports & Outdoors
+950,Modern Headphones (Sports & Outdoors),156.29,30,135,L'Oréal,Electronics
+242,Smart Sneakers (Clothing),157.2,16,190,Samsung,Home & Kitchen
+1049,Classic Smartwatch (Electronics),157.99,45,90,Maybelline,Books
+1000,Classic Sneakers (Beauty),158.97,76,5,Samsung,Electronics
+1047,Classic Bookshelf (Clothing),159.91,64,50,Sony,Books
+1070,Modern Yoga Mat (Home & Kitchen),159.99,22,14,Maybelline,Electronics
+1280,Innovative Skincare Set (Home & Kitchen),160.94,69,108,Samsung,Sports & Outdoors
+71,Classic Blender (Books),160.98,1,14,Nike,Books
+272,Modern Sneakers (Books),161.38,60,111,Sony,Electronics
+54,Elegant Yoga Mat (Home & Kitchen),162.08,9,69,Samsung,Clothing
+1328,Innovative Smartwatch (Beauty),163.7,99,195,Maybelline,Clothing
+504,Comfortable Yoga Mat (Electronics),164.11,58,165,Nike,Sports & Outdoors
+49,Durable Sneakers (Electronics),164.15,26,30,Puma,Clothing
+740,Classic Smartwatch (Books),164.85,60,36,Puma,Beauty
+875,Classic Cookware Set (Home & Kitchen),166.06,67,124,Maybelline,Beauty
+461,Classic Yoga Mat (Home & Kitchen),166.51,88,93,Maybelline,Home & Kitchen
+403,Premium Blender (Beauty),167.42,26,39,KitchenAid,Sports & Outdoors
+460,Innovative Bookshelf (Books),167.55,45,61,Sony,Electronics
+520,Modern Sneakers (Sports & Outdoors),168.83,35,153,L'Oréal,Books
+739,Innovative Skincare Set (Sports & Outdoors),170.31,35,193,Sony,Beauty
+718,Modern Smartwatch (Home & Kitchen),170.77,40,114,Samsung,Books
+1276,Elegant Headphones (Clothing),170.99,86,182,Samsung,Clothing
+4,Modern Sneakers (Sports & Outdoors),171.55,6,26,Samsung,Clothing
+532,Classic Headphones (Home & Kitchen),171.55,41,10,KitchenAid,Beauty
+1188,Durable Headphones (Clothing),172.61,44,137,Samsung,Beauty
+557,Classic Bookshelf (Beauty),172.65,96,124,Apple,Beauty
+1221,Elegant Smartwatch (Electronics),174.45,40,63,Samsung,Clothing
+104,Smart Smartwatch (Clothing),174.56,91,140,Sony,Home & Kitchen
+43,Premium Headphones (Sports & Outdoors),175.32,34,48,Maybelline,Sports & Outdoors
+867,Classic Headphones (Beauty),176.18,93,158,Puma,Electronics
+999,Smart Yoga Mat (Beauty),176.62,88,40,Puma,Clothing
+395,Modern Blender (Sports & Outdoors),176.66,88,174,AmazonBasics,Clothing
+1266,Elegant Yoga Mat (Clothing),178.83,3,36,Nike,Home & Kitchen
+290,Elegant Blender (Home & Kitchen),178.86,22,199,Adidas,Beauty
+1164,Classic Bookshelf (Sports & Outdoors),179.03,57,194,Samsung,Sports & Outdoors
+1256,Innovative Yoga Mat (Sports & Outdoors),179.28,77,152,KitchenAid,Sports & Outdoors
+909,Smart Bookshelf (Clothing),179.65,35,174,Nike,Books
+638,Premium Headphones (Clothing),179.73,80,167,KitchenAid,Electronics
+60,Modern Headphones (Books),179.88,73,46,Nike,Clothing
+737,Elegant Smartwatch (Home & Kitchen),180.05,36,41,Nike,Sports & Outdoors
+773,Innovative Headphones (Clothing),180.36,90,86,Apple,Books
+816,Innovative Sneakers (Electronics),181.94,15,50,Samsung,Clothing
+288,Comfortable Blender (Beauty),181.96,58,56,Maybelline,Clothing
+614,Premium Cookware Set (Beauty),183.15,48,15,Apple,Electronics
+102,Comfortable Sneakers (Clothing),183.96,98,112,Sony,Sports & Outdoors
+637,Classic Smartwatch (Sports & Outdoors),184.09,56,130,Puma,Beauty
+885,Elegant Blender (Electronics),184.26,70,52,AmazonBasics,Sports & Outdoors
+301,Classic Headphones (Beauty),184.9,81,130,L'Oréal,Clothing
+936,Smart Yoga Mat (Sports & Outdoors),185.24,81,156,Maybelline,Sports & Outdoors
+548,Innovative Skincare Set (Books),185.27,81,142,AmazonBasics,Home & Kitchen
+1035,Comfortable Sneakers (Books),186.19,84,53,Nike,Home & Kitchen
+138,Classic Skincare Set (Beauty),186.29,30,51,L'Oréal,Books
+1313,Modern Yoga Mat (Home & Kitchen),186.59,38,176,Adidas,Books
+369,Modern Yoga Mat (Clothing),189.18,38,179,Puma,Electronics
+1010,Durable Blender (Beauty),189.48,41,142,Maybelline,Clothing
+1191,Classic Cookware Set (Beauty),189.49,17,108,AmazonBasics,Beauty
+118,Smart Blender (Electronics),189.89,51,181,L'Oréal,Clothing
+1237,Classic Skincare Set (Beauty),190.02,97,110,Nike,Beauty
+309,Innovative Yoga Mat (Clothing),191.32,96,108,Nike,Books
+170,Smart Cookware Set (Books),192.51,41,19,Puma,Sports & Outdoors
+599,Smart Sneakers (Home & Kitchen),192.91,79,25,Samsung,Home & Kitchen
+249,Comfortable Sneakers (Sports & Outdoors),193.27,49,6,AmazonBasics,Beauty
+8,Comfortable Smartwatch (Clothing),193.33,86,85,AmazonBasics,Books
+237,Modern Smartwatch (Sports & Outdoors),195.86,4,0,L'Oréal,Beauty
+86,Elegant Yoga Mat (Electronics),196.38,80,118,AmazonBasics,Home & Kitchen
+1169,Premium Yoga Mat (Clothing),197.48,84,81,Apple,Home & Kitchen
+874,Classic Sneakers (Sports & Outdoors),197.99,64,191,Adidas,Beauty
+24,Classic Blender (Clothing),198.35,55,65,Nike,Clothing
+509,Smart Yoga Mat (Books),198.39,57,142,Sony,Home & Kitchen
+896,Premium Skincare Set (Books),198.83,16,54,Maybelline,Sports & Outdoors
+1180,Comfortable Yoga Mat (Beauty),199.16,29,32,L'Oréal,Clothing
+387,Comfortable Smartwatch (Sports & Outdoors),199.6,86,25,KitchenAid,Books
+381,Modern Yoga Mat (Home & Kitchen),201.26,97,69,Nike,Sports & Outdoors
+218,Classic Blender (Clothing),201.47,43,179,KitchenAid,Sports & Outdoors
+101,Durable Cookware Set (Beauty),201.51,89,171,Adidas,Electronics
+979,Premium Cookware Set (Clothing),201.62,48,64,AmazonBasics,Beauty
+81,Modern Smartwatch (Books),202.01,13,107,Samsung,Clothing
+1253,Classic Cookware Set (Clothing),202.45,19,190,Sony,Clothing
+62,Classic Skincare Set (Home & Kitchen),203.32,49,140,Adidas,Home & Kitchen
+93,Smart Skincare Set (Beauty),203.48,49,54,Puma,Beauty
+644,Innovative Sneakers (Home & Kitchen),204.29,4,68,Adidas,Beauty
+1122,Innovative Headphones (Electronics),206.33,76,20,Sony,Electronics
+960,Classic Blender (Beauty),206.7,93,120,Sony,Home & Kitchen
+1206,Modern Skincare Set (Electronics),207.27,45,178,AmazonBasics,Clothing
+160,Classic Smartwatch (Electronics),207.69,18,99,L'Oréal,Clothing
+371,Premium Bookshelf (Electronics),208.04,75,116,AmazonBasics,Electronics
+1106,Smart Yoga Mat (Electronics),208.96,19,158,Adidas,Electronics
+183,Modern Yoga Mat (Books),210.07,94,119,KitchenAid,Sports & Outdoors
+720,Smart Smartwatch (Beauty),212.48,24,57,Nike,Books
+735,Modern Sneakers (Sports & Outdoors),213.06,38,141,Puma,Books
+499,Premium Smartwatch (Books),213.35,91,26,KitchenAid,Sports & Outdoors
+742,Modern Cookware Set (Books),214.93,36,93,Samsung,Home & Kitchen
+858,Classic Smartwatch (Home & Kitchen),214.94,46,26,Puma,Clothing
+2,Smart Blender (Books),214.96,53,141,KitchenAid,Sports & Outdoors
+344,Comfortable Headphones (Home & Kitchen),215.14,89,171,KitchenAid,Books
+660,Smart Skincare Set (Sports & Outdoors),215.38,90,12,KitchenAid,Sports & Outdoors
+1258,Premium Yoga Mat (Books),216.78,90,133,Adidas,Sports & Outdoors
+902,Comfortable Cookware Set (Electronics),217.5,85,157,Sony,Sports & Outdoors
+626,Durable Skincare Set (Clothing),218.19,44,104,AmazonBasics,Books
+496,Comfortable Bookshelf (Electronics),218.2,34,30,Puma,Electronics
+703,Smart Blender (Beauty),218.68,27,194,L'Oréal,Home & Kitchen
+1177,Classic Blender (Electronics),218.75,8,53,KitchenAid,Clothing
+1117,Elegant Sneakers (Books),219.53,69,197,Samsung,Home & Kitchen
+578,Premium Cookware Set (Books),219.62,56,17,AmazonBasics,Home & Kitchen
+783,Modern Bookshelf (Books),219.78,85,47,Maybelline,Sports & Outdoors
+148,Premium Cookware Set (Home & Kitchen),225.46,7,104,Sony,Beauty
+1194,Premium Cookware Set (Home & Kitchen),226.75,52,152,Samsung,Electronics
+652,Modern Skincare Set (Electronics),226.98,77,67,Apple,Clothing
+66,Classic Smartwatch (Home & Kitchen),227.98,11,62,Adidas,Electronics
+150,Elegant Bookshelf (Electronics),230.06,65,86,Samsung,Home & Kitchen
+1158,Innovative Cookware Set (Electronics),230.41,19,5,Adidas,Sports & Outdoors
+456,Innovative Smartwatch (Home & Kitchen),232.44,99,91,Sony,Beauty
+1270,Elegant Skincare Set (Clothing),232.84,8,200,KitchenAid,Beauty
+53,Innovative Smartwatch (Electronics),233.44,75,44,L'Oréal,Clothing
+856,Modern Bookshelf (Electronics),233.96,77,134,L'Oréal,Beauty
+625,Elegant Yoga Mat (Home & Kitchen),236.1,56,80,Apple,Electronics
+1203,Durable Headphones (Sports & Outdoors),236.65,35,21,Maybelline,Clothing
+1249,Elegant Cookware Set (Beauty),236.82,67,47,Maybelline,Books
+38,Innovative Blender (Electronics),237.48,8,22,Samsung,Home & Kitchen
+463,Elegant Skincare Set (Home & Kitchen),237.75,62,178,Samsung,Beauty
+712,Classic Smartwatch (Clothing),238.71,25,99,Puma,Electronics
+438,Comfortable Bookshelf (Home & Kitchen),239.6,39,95,Adidas,Books
+1032,Smart Sneakers (Books),240.29,71,172,L'Oréal,Sports & Outdoors
+595,Durable Headphones (Clothing),242.17,21,103,L'Oréal,Books
+1204,Modern Headphones (Home & Kitchen),242.61,49,158,L'Oréal,Electronics
+253,Comfortable Bookshelf (Beauty),242.73,33,197,L'Oréal,Sports & Outdoors
+966,Elegant Yoga Mat (Home & Kitchen),243.22,75,37,KitchenAid,Clothing
+1200,Comfortable Skincare Set (Beauty),243.66,100,7,Samsung,Home & Kitchen
+705,Elegant Smartwatch (Home & Kitchen),244.56,80,172,Apple,Books
+797,Comfortable Smartwatch (Clothing),247.09,68,120,Adidas,Electronics
+674,Smart Smartwatch (Books),247.18,21,2,Apple,Home & Kitchen
+1232,Comfortable Bookshelf (Home & Kitchen),247.57,67,145,Samsung,Books
+975,Durable Yoga Mat (Sports & Outdoors),249.94,48,73,L'Oréal,Home & Kitchen
+16,Elegant Bookshelf (Beauty),251.23,64,101,Maybelline,Sports & Outdoors
+483,Smart Smartwatch (Books),251.34,40,185,Apple,Beauty
+423,Classic Sneakers (Books),251.8,87,1,AmazonBasics,Home & Kitchen
+1053,Classic Smartwatch (Home & Kitchen),252.69,17,101,AmazonBasics,Clothing
+779,Durable Headphones (Clothing),252.79,29,123,Samsung,Sports & Outdoors
+1162,Elegant Headphones (Books),255.23,3,177,Maybelline,Books
+559,Smart Sneakers (Sports & Outdoors),256.15,33,1,KitchenAid,Beauty
+77,Smart Blender (Home & Kitchen),256.57,92,142,Sony,Books
+523,Innovative Skincare Set (Beauty),256.62,39,28,Maybelline,Books
+965,Modern Cookware Set (Electronics),257.41,43,52,Adidas,Clothing
+83,Premium Skincare Set (Clothing),258.98,9,67,Puma,Electronics
+279,Smart Bookshelf (Home & Kitchen),259.41,83,0,KitchenAid,Sports & Outdoors
+1020,Innovative Yoga Mat (Books),259.62,84,47,KitchenAid,Beauty
+574,Innovative Yoga Mat (Beauty),262.56,6,198,Samsung,Home & Kitchen
+601,Durable Bookshelf (Beauty),263.35,16,113,Apple,Beauty
+1338,Comfortable Headphones (Sports & Outdoors),263.58,6,102,Apple,Books
+769,Durable Bookshelf (Sports & Outdoors),265.07,73,123,Sony,Beauty
+1318,Classic Blender (Clothing),265.58,9,76,Adidas,Home & Kitchen
+786,Premium Cookware Set (Beauty),266.44,89,116,Samsung,Electronics
+846,Durable Yoga Mat (Books),267.07,68,123,Adidas,Home & Kitchen
+57,Comfortable Bookshelf (Clothing),268.82,41,179,Maybelline,Home & Kitchen
+561,Modern Yoga Mat (Electronics),269.81,83,94,AmazonBasics,Books
+1241,Innovative Skincare Set (Books),270.01,81,53,Adidas,Books
+1195,Classic Yoga Mat (Beauty),270.17,42,86,L'Oréal,Sports & Outdoors
+1306,Innovative Yoga Mat (Books),271.65,84,118,KitchenAid,Electronics
+304,Modern Bookshelf (Sports & Outdoors),271.87,72,73,Puma,Sports & Outdoors
+1267,Comfortable Smartwatch (Electronics),273.59,88,19,Samsung,Electronics
+932,Durable Headphones (Clothing),274.15,87,91,KitchenAid,Electronics
+928,Modern Yoga Mat (Sports & Outdoors),274.58,51,171,Samsung,Sports & Outdoors
+12,Smart Skincare Set (Beauty),274.59,38,189,Nike,Beauty
+1300,Premium Bookshelf (Beauty),274.68,37,139,Adidas,Sports & Outdoors
+137,Innovative Blender (Books),274.71,2,200,Nike,Sports & Outdoors
+131,Durable Yoga Mat (Sports & Outdoors),275.03,33,50,Adidas,Clothing
+440,Elegant Sneakers (Clothing),275.59,19,186,Nike,Home & Kitchen
+653,Premium Bookshelf (Home & Kitchen),276.93,68,36,Apple,Clothing
+596,Elegant Headphones (Home & Kitchen),277.22,76,124,KitchenAid,Sports & Outdoors
+1176,Innovative Bookshelf (Books),278.31,24,198,Adidas,Sports & Outdoors
+672,Premium Yoga Mat (Home & Kitchen),279.38,87,180,Apple,Clothing
+228,Modern Sneakers (Home & Kitchen),279.49,35,199,Nike,Electronics
+277,Smart Headphones (Beauty),280.16,48,41,Sony,Home & Kitchen
+207,Durable Smartwatch (Sports & Outdoors),282.02,23,194,Nike,Sports & Outdoors
+1090,Modern Headphones (Books),282.29,24,180,Maybelline,Clothing
+541,Modern Blender (Beauty),283.17,86,56,L'Oréal,Sports & Outdoors
+186,Elegant Bookshelf (Electronics),283.7,82,143,Nike,Books
+1081,Innovative Skincare Set (Home & Kitchen),283.73,53,114,KitchenAid,Home & Kitchen
+819,Classic Bookshelf (Home & Kitchen),284.0,70,135,Sony,Beauty
+15,Modern Blender (Electronics),285.66,58,45,L'Oréal,Books
+1160,Premium Smartwatch (Electronics),286.2,87,118,KitchenAid,Books
+709,Classic Headphones (Beauty),286.46,49,187,KitchenAid,Books
+339,Comfortable Bookshelf (Sports & Outdoors),286.59,83,38,Nike,Clothing
+229,Elegant Smartwatch (Beauty),288.08,51,160,Puma,Sports & Outdoors
+517,Smart Sneakers (Electronics),291.71,89,74,Maybelline,Clothing
+1112,Modern Blender (Sports & Outdoors),295.32,27,180,L'Oréal,Beauty
+414,Elegant Yoga Mat (Clothing),295.59,13,151,AmazonBasics,Sports & Outdoors
+362,Comfortable Skincare Set (Home & Kitchen),296.1,71,26,KitchenAid,Electronics
+505,Modern Sneakers (Sports & Outdoors),297.69,58,60,Samsung,Clothing
+629,Elegant Blender (Clothing),298.13,97,105,Maybelline,Electronics
+156,Smart Headphones (Home & Kitchen),298.22,90,189,KitchenAid,Home & Kitchen
+145,Smart Yoga Mat (Books),298.99,67,162,KitchenAid,Sports & Outdoors
+886,Modern Skincare Set (Books),299.3,29,180,L'Oréal,Books
+84,Durable Smartwatch (Clothing),299.95,9,193,KitchenAid,Beauty
+1178,Premium Headphones (Beauty),299.96,61,6,KitchenAid,Electronics
+477,Durable Yoga Mat (Sports & Outdoors),300.25,7,90,L'Oréal,Sports & Outdoors
+67,Comfortable Cookware Set (Beauty),300.26,66,53,Puma,Home & Kitchen
+860,Comfortable Blender (Clothing),300.7,23,177,Puma,Books
+172,Innovative Smartwatch (Beauty),301.52,52,92,Maybelline,Clothing
+552,Comfortable Cookware Set (Books),301.66,8,109,AmazonBasics,Beauty
+972,Premium Skincare Set (Home & Kitchen),302.91,25,43,Puma,Home & Kitchen
+807,Comfortable Cookware Set (Home & Kitchen),303.43,83,35,Nike,Electronics
+796,Modern Yoga Mat (Home & Kitchen),303.76,19,31,Apple,Clothing
+31,Comfortable Skincare Set (Clothing),303.97,3,200,Apple,Beauty
+1027,Comfortable Bookshelf (Sports & Outdoors),305.01,72,176,AmazonBasics,Books
+829,Smart Cookware Set (Electronics),305.75,1,134,AmazonBasics,Books
+567,Classic Smartwatch (Beauty),306.41,80,147,AmazonBasics,Beauty
+175,Premium Bookshelf (Sports & Outdoors),306.63,75,53,Adidas,Books
+343,Premium Cookware Set (Clothing),306.88,84,9,Puma,Beauty
+839,Modern Skincare Set (Beauty),307.69,83,106,Maybelline,Beauty
+127,Comfortable Skincare Set (Sports & Outdoors),308.3,97,143,Adidas,Beauty
+1067,Durable Cookware Set (Electronics),310.2,28,149,Samsung,Beauty
+1104,Innovative Sneakers (Books),310.45,100,164,Samsung,Beauty
+1086,Premium Sneakers (Sports & Outdoors),311.4,29,1,AmazonBasics,Sports & Outdoors
+934,Classic Skincare Set (Sports & Outdoors),311.9,65,94,Sony,Sports & Outdoors
+519,Elegant Sneakers (Sports & Outdoors),311.94,22,55,Nike,Clothing
+976,Elegant Yoga Mat (Clothing),311.95,23,173,Adidas,Home & Kitchen
+741,Premium Bookshelf (Home & Kitchen),312.03,57,126,Maybelline,Electronics
+1351,Premium Headphones (Books),313.08,80,43,Sony,Beauty
+809,Modern Bookshelf (Clothing),313.55,62,74,Samsung,Beauty
+305,Premium Yoga Mat (Sports & Outdoors),313.75,1,114,Adidas,Electronics
+1282,Comfortable Skincare Set (Sports & Outdoors),314.71,18,187,Adidas,Sports & Outdoors
+887,Comfortable Bookshelf (Sports & Outdoors),315.31,98,65,Apple,Books
+188,Durable Blender (Electronics),315.63,43,189,Puma,Books
+893,Durable Headphones (Beauty),317.19,79,27,L'Oréal,Electronics
+994,Classic Skincare Set (Sports & Outdoors),317.65,18,87,L'Oréal,Electronics
+110,Modern Smartwatch (Books),317.78,14,116,Adidas,Electronics
+1283,Innovative Yoga Mat (Clothing),318.6,58,20,Sony,Books
+778,Innovative Sneakers (Home & Kitchen),319.66,70,94,Puma,Electronics
+805,Comfortable Yoga Mat (Electronics),319.86,54,14,AmazonBasics,Books
+239,Modern Cookware Set (Home & Kitchen),320.28,58,200,AmazonBasics,Sports & Outdoors
+752,Elegant Yoga Mat (Beauty),320.48,15,3,Samsung,Home & Kitchen
+795,Modern Skincare Set (Beauty),322.18,25,167,L'Oréal,Electronics
+645,Premium Blender (Electronics),323.62,31,50,L'Oréal,Electronics
+453,Innovative Blender (Clothing),323.79,33,55,KitchenAid,Clothing
+374,Smart Yoga Mat (Home & Kitchen),324.35,10,21,Samsung,Books
+429,Modern Headphones (Clothing),327.15,63,10,L'Oréal,Sports & Outdoors
+655,Innovative Skincare Set (Sports & Outdoors),327.16,87,161,Sony,Beauty
+1301,Classic Cookware Set (Electronics),328.15,36,173,Apple,Books
+335,Classic Bookshelf (Beauty),330.55,13,168,Puma,Books
+1021,Durable Headphones (Sports & Outdoors),332.34,92,139,KitchenAid,Clothing
+1149,Elegant Smartwatch (Books),332.36,88,109,AmazonBasics,Beauty
+721,Comfortable Yoga Mat (Sports & Outdoors),332.5,3,48,KitchenAid,Sports & Outdoors
+209,Comfortable Skincare Set (Home & Kitchen),333.13,36,137,Puma,Sports & Outdoors
+258,Classic Skincare Set (Books),333.41,58,4,AmazonBasics,Electronics
+240,Innovative Bookshelf (Sports & Outdoors),335.84,60,54,L'Oréal,Clothing
+1214,Modern Blender (Sports & Outdoors),336.59,7,38,AmazonBasics,Books
+400,Classic Headphones (Clothing),336.66,52,40,Maybelline,Clothing
+415,Modern Headphones (Books),336.66,84,56,AmazonBasics,Clothing
+891,Premium Yoga Mat (Home & Kitchen),337.67,54,129,Maybelline,Clothing
+527,Elegant Sneakers (Sports & Outdoors),339.31,7,136,AmazonBasics,Clothing
+857,Premium Cookware Set (Beauty),339.51,13,136,Adidas,Books
+231,Comfortable Headphones (Beauty),341.07,54,7,AmazonBasics,Home & Kitchen
+196,Modern Bookshelf (Electronics),342.97,70,186,AmazonBasics,Books
+977,Innovative Bookshelf (Books),343.85,1,183,Apple,Books
+1041,Durable Sneakers (Home & Kitchen),345.11,26,185,Apple,Home & Kitchen
+452,Innovative Sneakers (Books),345.46,25,106,Sony,Books
+808,Comfortable Sneakers (Electronics),345.73,95,93,Puma,Electronics
+141,Durable Headphones (Home & Kitchen),347.68,27,94,Nike,Electronics
+699,Durable Skincare Set (Beauty),347.85,94,3,Nike,Books
+648,Modern Skincare Set (Sports & Outdoors),350.84,91,25,Sony,Books
+590,Smart Smartwatch (Home & Kitchen),352.17,91,181,Sony,Electronics
+1274,Innovative Smartwatch (Clothing),353.77,82,197,Maybelline,Electronics
+1119,Elegant Smartwatch (Beauty),353.81,13,78,Adidas,Books
+18,Durable Bookshelf (Books),354.81,84,95,Puma,Electronics
+776,Durable Bookshelf (Books),354.97,66,84,Nike,Electronics
+781,Durable Bookshelf (Sports & Outdoors),357.39,88,3,Maybelline,Books
+1167,Smart Smartwatch (Electronics),357.62,98,98,Puma,Clothing
+465,Modern Cookware Set (Home & Kitchen),358.76,72,14,Nike,Beauty
+1340,Innovative Skincare Set (Books),358.78,20,195,Maybelline,Beauty
+1302,Durable Headphones (Electronics),359.25,46,77,KitchenAid,Electronics
+556,Premium Sneakers (Sports & Outdoors),360.93,77,158,Puma,Home & Kitchen
+65,Classic Bookshelf (Sports & Outdoors),361.71,66,183,KitchenAid,Clothing
+1252,Premium Headphones (Beauty),361.74,93,128,KitchenAid,Sports & Outdoors
+1103,Innovative Headphones (Home & Kitchen),362.58,7,54,Maybelline,Home & Kitchen
+1135,Premium Skincare Set (Electronics),364.64,44,71,Sony,Electronics
+651,Premium Cookware Set (Sports & Outdoors),365.03,65,138,Puma,Clothing
+21,Classic Blender (Books),365.05,87,134,Samsung,Home & Kitchen
+1030,Classic Skincare Set (Clothing),365.24,22,62,Nike,Sports & Outdoors
+189,Durable Headphones (Electronics),366.8,26,108,KitchenAid,Electronics
+661,Innovative Yoga Mat (Beauty),367.54,4,77,Nike,Clothing
+724,Classic Sneakers (Beauty),369.11,91,51,Sony,Sports & Outdoors
+1288,Elegant Skincare Set (Sports & Outdoors),369.38,5,27,Maybelline,Clothing
+238,Durable Sneakers (Sports & Outdoors),369.68,48,121,Adidas,Electronics
+1156,Premium Blender (Home & Kitchen),370.89,47,35,KitchenAid,Home & Kitchen
+455,Elegant Yoga Mat (Books),371.76,41,143,Apple,Home & Kitchen
+1094,Elegant Cookware Set (Home & Kitchen),372.13,89,166,Nike,Home & Kitchen
+417,Comfortable Headphones (Beauty),372.17,78,174,Apple,Electronics
+1235,Modern Cookware Set (Home & Kitchen),373.76,15,71,Apple,Sports & Outdoors
+883,Classic Yoga Mat (Electronics),374.12,38,137,Maybelline,Books
+109,Modern Yoga Mat (Beauty),374.42,46,140,L'Oréal,Beauty
+1026,Elegant Blender (Books),376.86,88,129,KitchenAid,Clothing
+1096,Smart Headphones (Sports & Outdoors),377.04,44,95,KitchenAid,Home & Kitchen
+1264,Smart Cookware Set (Clothing),377.18,32,134,Maybelline,Sports & Outdoors
+525,Modern Yoga Mat (Sports & Outdoors),377.29,15,127,KitchenAid,Sports & Outdoors
+1209,Smart Cookware Set (Beauty),378.89,37,46,AmazonBasics,Books
+479,Modern Bookshelf (Sports & Outdoors),379.71,60,65,KitchenAid,Books
+336,Modern Cookware Set (Sports & Outdoors),379.81,26,147,Puma,Clothing
+47,Modern Blender (Beauty),381.51,81,27,Maybelline,Books
+587,Classic Smartwatch (Books),381.91,40,23,Samsung,Beauty
+911,Classic Blender (Beauty),383.33,51,178,Adidas,Electronics
+79,Durable Bookshelf (Beauty),383.81,21,177,L'Oréal,Electronics
+475,Innovative Blender (Beauty),384.59,68,26,KitchenAid,Electronics
+884,Comfortable Blender (Electronics),384.62,55,74,Sony,Beauty
+920,Durable Smartwatch (Books),385.0,100,150,Adidas,Clothing
+313,Comfortable Skincare Set (Home & Kitchen),385.32,58,3,Adidas,Beauty
+348,Premium Sneakers (Clothing),385.52,51,184,L'Oréal,Home & Kitchen
+247,Durable Headphones (Home & Kitchen),385.53,67,106,Apple,Books
+620,Durable Smartwatch (Books),385.74,54,119,L'Oréal,Clothing
+698,Premium Smartwatch (Beauty),385.91,98,163,Apple,Beauty
+471,Innovative Cookware Set (Beauty),386.23,4,67,Sony,Clothing
+332,Premium Skincare Set (Beauty),389.44,22,32,AmazonBasics,Sports & Outdoors
+914,Elegant Headphones (Beauty),389.54,55,87,Nike,Beauty
+254,Elegant Smartwatch (Clothing),391.79,96,163,Adidas,Electronics
+1115,Premium Yoga Mat (Clothing),392.11,50,128,Maybelline,Beauty
+476,Modern Headphones (Electronics),392.31,26,90,Apple,Beauty
+944,Classic Headphones (Clothing),392.72,43,165,KitchenAid,Home & Kitchen
+981,Smart Smartwatch (Sports & Outdoors),392.8,70,33,Nike,Beauty
+1238,Modern Blender (Clothing),393.66,7,123,Puma,Books
+931,Comfortable Blender (Clothing),394.49,8,74,Nike,Sports & Outdoors
+916,Innovative Skincare Set (Electronics),395.89,75,183,L'Oréal,Sports & Outdoors
+329,Elegant Smartwatch (Clothing),396.09,75,136,Apple,Beauty
+711,Classic Blender (Beauty),397.09,74,90,Sony,Beauty
+449,Premium Smartwatch (Beauty),397.51,16,161,Sony,Clothing
+766,Modern Blender (Electronics),399.36,44,21,Samsung,Beauty
+250,Premium Sneakers (Electronics),399.71,49,178,Maybelline,Beauty
+353,Comfortable Smartwatch (Electronics),400.87,80,46,Adidas,Beauty
+600,Durable Smartwatch (Clothing),401.31,53,80,Nike,Clothing
+1061,Premium Smartwatch (Sports & Outdoors),401.38,25,134,Nike,Home & Kitchen
+224,Smart Skincare Set (Home & Kitchen),402.33,30,109,Maybelline,Home & Kitchen
+33,Elegant Yoga Mat (Electronics),403.45,25,24,Apple,Electronics
+1097,Classic Blender (Sports & Outdoors),403.52,63,55,Adidas,Clothing
+295,Innovative Blender (Beauty),404.03,40,91,Maybelline,Home & Kitchen
+200,Comfortable Bookshelf (Electronics),404.2,33,5,AmazonBasics,Electronics
+582,Smart Skincare Set (Books),404.38,41,142,KitchenAid,Home & Kitchen
+1042,Elegant Blender (Beauty),405.65,78,127,KitchenAid,Sports & Outdoors
+1126,Modern Headphones (Books),405.82,31,159,KitchenAid,Sports & Outdoors
+206,Elegant Smartwatch (Sports & Outdoors),405.92,94,102,Adidas,Books
+482,Premium Yoga Mat (Books),408.04,5,102,Samsung,Beauty
+693,Elegant Smartwatch (Electronics),409.3,5,195,Samsung,Beauty
+450,Elegant Blender (Beauty),409.61,96,149,Samsung,Beauty
+995,Classic Skincare Set (Beauty),411.92,2,16,Maybelline,Electronics
+890,Innovative Bookshelf (Clothing),413.88,76,62,KitchenAid,Sports & Outdoors
+1029,Comfortable Skincare Set (Beauty),413.95,80,52,L'Oréal,Books
+584,Innovative Headphones (Books),417.09,85,190,Puma,Home & Kitchen
+100,Classic Smartwatch (Home & Kitchen),417.62,27,139,Maybelline,Beauty
+503,Elegant Yoga Mat (Beauty),418.49,91,10,L'Oréal,Home & Kitchen
+631,Innovative Skincare Set (Books),418.61,91,54,KitchenAid,Books
+322,Innovative Cookware Set (Clothing),419.04,75,45,Puma,Clothing
+342,Elegant Smartwatch (Electronics),420.04,42,34,KitchenAid,Clothing
+528,Elegant Sneakers (Electronics),420.41,84,17,Adidas,Home & Kitchen
+542,Classic Smartwatch (Clothing),421.18,11,52,Maybelline,Sports & Outdoors
+696,Innovative Sneakers (Electronics),421.59,11,61,Apple,Home & Kitchen
+435,Comfortable Yoga Mat (Clothing),422.17,100,107,AmazonBasics,Home & Kitchen
+37,Durable Cookware Set (Sports & Outdoors),422.7,9,159,AmazonBasics,Beauty
+419,Elegant Smartwatch (Home & Kitchen),423.03,83,20,L'Oréal,Sports & Outdoors
+113,Elegant Smartwatch (Home & Kitchen),425.11,53,168,Puma,Books
+1083,Durable Bookshelf (Books),425.11,54,58,Adidas,Electronics
+848,Smart Bookshelf (Books),426.97,38,81,Adidas,Books
+446,Smart Blender (Home & Kitchen),427.23,77,77,Sony,Clothing
+262,Modern Yoga Mat (Electronics),428.67,10,151,KitchenAid,Sports & Outdoors
+828,Smart Yoga Mat (Sports & Outdoors),428.97,48,122,Nike,Electronics
+255,Smart Sneakers (Clothing),431.05,52,177,Sony,Clothing
+1157,Elegant Smartwatch (Books),431.42,89,108,KitchenAid,Beauty
+357,Comfortable Smartwatch (Beauty),431.85,84,0,AmazonBasics,Beauty
+1279,Elegant Smartwatch (Electronics),433.4,53,105,Adidas,Electronics
+738,Premium Bookshelf (Sports & Outdoors),433.46,16,125,Sony,Sports & Outdoors
+382,Classic Cookware Set (Books),433.73,97,141,Sony,Home & Kitchen
+921,Elegant Cookware Set (Beauty),433.9,43,132,Adidas,Beauty
+862,Durable Skincare Set (Sports & Outdoors),434.32,61,67,Nike,Clothing
+1273,Innovative Yoga Mat (Books),434.38,24,129,Sony,Books
+187,Elegant Sneakers (Electronics),434.55,45,41,Samsung,Sports & Outdoors
+300,Durable Sneakers (Sports & Outdoors),436.17,40,137,L'Oréal,Home & Kitchen
+664,Innovative Yoga Mat (Clothing),436.58,26,137,L'Oréal,Clothing
+1098,Elegant Skincare Set (Beauty),437.12,28,17,Samsung,Beauty
+1034,Smart Yoga Mat (Electronics),437.47,89,123,Maybelline,Sports & Outdoors
+1118,Comfortable Smartwatch (Electronics),439.42,37,154,AmazonBasics,Home & Kitchen
+377,Innovative Smartwatch (Books),440.83,70,17,L'Oréal,Sports & Outdoors
+399,Modern Blender (Sports & Outdoors),441.65,80,44,Adidas,Books
+159,Comfortable Blender (Sports & Outdoors),443.03,30,74,Puma,Home & Kitchen
+627,Elegant Cookware Set (Home & Kitchen),444.72,59,163,Adidas,Electronics
+682,Premium Blender (Electronics),446.71,71,123,Sony,Sports & Outdoors
+949,Classic Bookshelf (Books),449.41,42,145,Maybelline,Clothing
+264,Innovative Yoga Mat (Books),451.19,61,94,Samsung,Sports & Outdoors
+337,Durable Cookware Set (Home & Kitchen),451.78,99,11,Apple,Home & Kitchen
+75,Premium Skincare Set (Books),452.55,64,110,Samsung,Books
+234,Classic Smartwatch (Books),454.64,75,63,L'Oréal,Clothing
+840,Durable Smartwatch (Sports & Outdoors),454.72,91,199,Sony,Books
+603,Innovative Bookshelf (Clothing),454.73,96,35,Adidas,Clothing
+562,Innovative Headphones (Beauty),455.52,39,67,Puma,Electronics
+151,Classic Skincare Set (Sports & Outdoors),455.94,94,59,KitchenAid,Clothing
+1271,Smart Skincare Set (Sports & Outdoors),456.52,64,102,Puma,Electronics
+1193,Elegant Smartwatch (Sports & Outdoors),458.05,42,82,AmazonBasics,Home & Kitchen
+1033,Classic Skincare Set (Home & Kitchen),460.21,38,186,Adidas,Clothing
+792,Modern Headphones (Home & Kitchen),460.85,33,74,Maybelline,Beauty
+168,Modern Headphones (Home & Kitchen),461.08,3,106,AmazonBasics,Beauty
+1331,Premium Bookshelf (Books),461.75,38,159,Nike,Books
+851,Innovative Bookshelf (Clothing),463.1,51,177,Sony,Clothing
+1072,Classic Smartwatch (Clothing),463.5,84,24,Sony,Beauty
+1333,Modern Yoga Mat (Books),463.6,87,158,L'Oréal,Electronics
+409,Premium Sneakers (Books),464.73,15,86,Maybelline,Clothing
+27,Classic Headphones (Clothing),465.08,34,174,Sony,Sports & Outdoors
+1005,Innovative Cookware Set (Beauty),466.44,41,81,Adidas,Books
+1091,Premium Sneakers (Home & Kitchen),467.09,35,65,L'Oréal,Beauty
+830,Durable Yoga Mat (Beauty),467.27,22,197,Nike,Books
+359,Premium Sneakers (Books),467.49,67,156,Puma,Home & Kitchen
+756,Modern Skincare Set (Electronics),467.86,3,48,L'Oréal,Books
+41,Innovative Sneakers (Electronics),468.03,28,4,KitchenAid,Electronics
+427,Innovative Headphones (Sports & Outdoors),468.55,60,97,Sony,Electronics
+522,Innovative Skincare Set (Home & Kitchen),469.04,48,144,Sony,Books
+1215,Elegant Bookshelf (Electronics),469.47,2,115,Nike,Home & Kitchen
+953,Durable Yoga Mat (Beauty),469.94,79,110,Nike,Home & Kitchen
+1240,Innovative Skincare Set (Beauty),472.38,88,191,L'Oréal,Sports & Outdoors
+811,Innovative Blender (Books),472.42,98,92,AmazonBasics,Home & Kitchen
+1293,Premium Skincare Set (Electronics),472.94,42,32,Maybelline,Electronics
+142,Modern Bookshelf (Electronics),473.0,87,91,Nike,Sports & Outdoors
+1076,Elegant Yoga Mat (Sports & Outdoors),473.59,100,52,Sony,Clothing
+634,Smart Blender (Home & Kitchen),474.34,74,73,Sony,Beauty
+1349,Modern Headphones (Clothing),475.21,35,88,Maybelline,Books
+606,Durable Bookshelf (Clothing),478.17,11,102,Sony,Beauty
+122,Elegant Blender (Home & Kitchen),478.57,17,197,AmazonBasics,Books
+673,Premium Cookware Set (Electronics),479.34,77,104,Adidas,Electronics
+1278,Classic Yoga Mat (Beauty),479.34,74,18,Nike,Home & Kitchen
+45,Durable Sneakers (Books),481.02,58,123,Maybelline,Books
+957,Innovative Sneakers (Home & Kitchen),481.3,2,200,Nike,Books
+513,Durable Yoga Mat (Books),482.34,2,117,Sony,Books
+132,Innovative Cookware Set (Sports & Outdoors),482.55,92,42,L'Oréal,Electronics
+64,Modern Cookware Set (Home & Kitchen),482.67,15,87,Adidas,Home & Kitchen
+938,Comfortable Skincare Set (Clothing),483.95,82,65,Adidas,Electronics
+948,Durable Yoga Mat (Home & Kitchen),484.32,88,177,L'Oréal,Home & Kitchen
+437,Elegant Smartwatch (Books),484.58,93,150,Maybelline,Sports & Outdoors
+536,Durable Skincare Set (Home & Kitchen),486.72,36,82,Nike,Sports & Outdoors
+1077,Premium Bookshelf (Beauty),487.17,2,72,Apple,Sports & Outdoors
+373,Smart Headphones (Home & Kitchen),487.89,57,45,AmazonBasics,Sports & Outdoors
+988,Innovative Skincare Set (Beauty),489.01,29,77,AmazonBasics,Sports & Outdoors
+1011,Elegant Skincare Set (Beauty),490.12,55,125,Sony,Books
+492,Comfortable Sneakers (Beauty),490.16,59,186,AmazonBasics,Books
+570,Modern Blender (Electronics),490.55,74,63,L'Oréal,Books
+780,Durable Smartwatch (Beauty),491.67,46,160,Maybelline,Electronics
+1184,Smart Headphones (Clothing),491.93,63,187,Puma,Electronics
+872,Premium Cookware Set (Sports & Outdoors),492.24,1,115,KitchenAid,Electronics
+1262,Modern Sneakers (Sports & Outdoors),493.03,38,4,L'Oréal,Electronics
+540,Innovative Blender (Beauty),493.34,85,52,Samsung,Books
+408,Innovative Smartwatch (Home & Kitchen),494.34,47,43,Adidas,Home & Kitchen
+636,Premium Blender (Books),494.78,82,68,Adidas,Electronics
+1243,Smart Smartwatch (Clothing),494.85,53,194,KitchenAid,Electronics
+834,Classic Blender (Electronics),497.62,94,121,Samsung,Sports & Outdoors
+593,Smart Headphones (Home & Kitchen),499.12,15,78,Puma,Home & Kitchen
+903,Classic Cookware Set (Books),499.52,36,157,L'Oréal,Electronics
+1052,Smart Yoga Mat (Clothing),500.33,81,8,Nike,Beauty
+368,Comfortable Blender (Clothing),501.26,49,189,Samsung,Sports & Outdoors
+793,Classic Cookware Set (Beauty),502.41,68,70,AmazonBasics,Clothing
+223,Comfortable Smartwatch (Books),502.47,2,56,Adidas,Beauty
+984,Innovative Blender (Electronics),503.6,40,63,Maybelline,Clothing
+1244,Premium Skincare Set (Books),504.12,12,78,Samsung,Books
+571,Modern Bookshelf (Clothing),504.95,30,45,Sony,Sports & Outdoors
+340,Classic Smartwatch (Sports & Outdoors),505.21,23,169,Samsung,Books
+996,Premium Blender (Home & Kitchen),505.68,83,105,Apple,Clothing
+958,Classic Headphones (Sports & Outdoors),505.88,95,10,Nike,Sports & Outdoors
+1063,Elegant Yoga Mat (Beauty),506.39,84,198,Samsung,Clothing
+1199,Modern Skincare Set (Books),507.31,80,11,L'Oréal,Clothing
+444,Comfortable Cookware Set (Clothing),507.83,26,55,Sony,Sports & Outdoors
+547,Comfortable Yoga Mat (Clothing),508.99,96,91,Sony,Beauty
+1017,Smart Headphones (Clothing),509.9,4,146,KitchenAid,Books
+514,Smart Sneakers (Books),510.0,62,7,Samsung,Books
+226,Comfortable Smartwatch (Electronics),510.87,64,122,Adidas,Clothing
+871,Premium Yoga Mat (Clothing),512.57,39,188,KitchenAid,Beauty
+982,Comfortable Headphones (Home & Kitchen),515.24,32,193,AmazonBasics,Home & Kitchen
+468,Smart Sneakers (Sports & Outdoors),515.47,28,44,Sony,Home & Kitchen
+616,Elegant Skincare Set (Beauty),515.97,41,1,L'Oréal,Sports & Outdoors
+1175,Modern Skincare Set (Electronics),516.43,84,185,Apple,Electronics
+466,Smart Blender (Home & Kitchen),516.92,8,87,Samsung,Clothing
+861,Innovative Bookshelf (Home & Kitchen),517.18,86,137,Samsung,Electronics
+913,Modern Cookware Set (Clothing),517.62,66,149,Adidas,Sports & Outdoors
+173,Modern Blender (Books),517.62,74,152,Sony,Home & Kitchen
+1332,Modern Blender (Electronics),518.53,91,100,Sony,Electronics
+1002,Durable Blender (Home & Kitchen),518.67,2,108,L'Oréal,Sports & Outdoors
+1198,Smart Cookware Set (Sports & Outdoors),518.85,72,72,Sony,Books
+1031,Classic Blender (Home & Kitchen),519.15,49,90,Apple,Home & Kitchen
+1222,Classic Blender (Electronics),519.43,19,125,L'Oréal,Home & Kitchen
+954,Smart Cookware Set (Sports & Outdoors),519.81,33,1,Maybelline,Books
+358,Classic Yoga Mat (Beauty),520.15,39,72,Apple,Beauty
+658,Modern Sneakers (Clothing),520.66,17,184,Apple,Beauty
+649,Premium Headphones (Clothing),521.34,67,88,Sony,Electronics
+710,Elegant Yoga Mat (Books),521.88,60,177,Maybelline,Clothing
+467,Innovative Yoga Mat (Beauty),522.55,75,47,Adidas,Beauty
+56,Modern Sneakers (Sports & Outdoors),522.62,58,197,Sony,Books
+225,Comfortable Cookware Set (Beauty),524.33,98,26,Maybelline,Books
+989,Premium Bookshelf (Electronics),524.47,63,87,Maybelline,Clothing
+700,Smart Bookshelf (Books),524.98,16,104,Samsung,Electronics
+430,Elegant Blender (Clothing),525.49,1,157,AmazonBasics,Beauty
+747,Elegant Bookshelf (Home & Kitchen),525.65,98,173,Sony,Clothing
+1082,Premium Cookware Set (Books),526.35,25,58,Adidas,Home & Kitchen
+97,Modern Bookshelf (Home & Kitchen),526.83,35,190,L'Oréal,Sports & Outdoors
+758,Classic Yoga Mat (Sports & Outdoors),528.15,67,22,Samsung,Beauty
+656,Premium Headphones (Clothing),528.25,11,135,Adidas,Home & Kitchen
+1223,Smart Smartwatch (Sports & Outdoors),528.35,56,152,Adidas,Electronics
+1028,Durable Cookware Set (Beauty),528.68,31,110,AmazonBasics,Sports & Outdoors
+901,Premium Skincare Set (Home & Kitchen),529.38,83,30,Samsung,Beauty
+128,Elegant Skincare Set (Home & Kitchen),529.44,41,142,AmazonBasics,Sports & Outdoors
+1039,Comfortable Skincare Set (Books),529.58,12,63,Apple,Beauty
+749,Smart Smartwatch (Clothing),530.78,8,19,Maybelline,Beauty
+841,Classic Cookware Set (Beauty),531.42,67,185,KitchenAid,Sports & Outdoors
+750,Durable Blender (Beauty),531.77,29,57,Puma,Beauty
+267,Comfortable Bookshelf (Books),532.97,53,59,AmazonBasics,Home & Kitchen
+1303,Modern Bookshelf (Books),533.79,19,168,L'Oréal,Books
+327,Innovative Yoga Mat (Beauty),533.91,19,120,Apple,Home & Kitchen
+881,Comfortable Cookware Set (Beauty),534.08,68,125,Puma,Home & Kitchen
+762,Innovative Cookware Set (Home & Kitchen),534.88,47,185,Apple,Beauty
+136,Comfortable Yoga Mat (Electronics),534.98,62,90,L'Oréal,Clothing
+424,Classic Yoga Mat (Sports & Outdoors),535.89,58,120,Sony,Electronics
+952,Durable Bookshelf (Books),536.09,72,1,L'Oréal,Clothing
+717,Modern Skincare Set (Electronics),537.19,14,52,Puma,Beauty
+1350,Smart Bookshelf (Home & Kitchen),537.69,82,183,Adidas,Clothing
+685,Durable Blender (Sports & Outdoors),538.99,20,24,Puma,Electronics
+88,Durable Yoga Mat (Home & Kitchen),539.76,36,53,Puma,Sports & Outdoors
+1056,Classic Skincare Set (Home & Kitchen),540.48,49,38,Apple,Beauty
+488,Elegant Skincare Set (Beauty),541.09,3,66,Sony,Clothing
+217,Innovative Skincare Set (Sports & Outdoors),541.8,12,91,Sony,Sports & Outdoors
+376,Elegant Cookware Set (Clothing),543.17,92,45,L'Oréal,Books
+576,Smart Bookshelf (Sports & Outdoors),543.25,81,64,Samsung,Beauty
+1073,Elegant Headphones (Books),543.7,80,109,Adidas,Home & Kitchen
+507,Elegant Cookware Set (Home & Kitchen),543.96,40,188,Samsung,Sports & Outdoors
+486,Smart Cookware Set (Clothing),544.97,83,141,Nike,Sports & Outdoors
+312,Smart Yoga Mat (Sports & Outdoors),546.78,44,88,Adidas,Home & Kitchen
+967,Elegant Yoga Mat (Sports & Outdoors),547.52,41,166,Apple,Sports & Outdoors
+736,Modern Headphones (Sports & Outdoors),547.55,73,43,Samsung,Electronics
+1128,Premium Skincare Set (Books),547.61,74,101,AmazonBasics,Home & Kitchen
+812,Elegant Sneakers (Electronics),547.68,29,63,KitchenAid,Beauty
+506,Classic Bookshelf (Home & Kitchen),548.96,98,74,L'Oréal,Clothing
+498,Innovative Bookshelf (Beauty),549.34,4,134,Samsung,Clothing
+432,Comfortable Blender (Clothing),550.46,51,75,Maybelline,Beauty
+849,Elegant Cookware Set (Beauty),550.69,25,102,AmazonBasics,Beauty
+1037,Premium Headphones (Sports & Outdoors),550.7,61,53,KitchenAid,Home & Kitchen
+1064,Smart Sneakers (Sports & Outdoors),550.99,49,110,Apple,Clothing
+98,Innovative Cookware Set (Home & Kitchen),551.09,26,65,Adidas,Beauty
+926,Durable Yoga Mat (Electronics),551.85,86,86,Apple,Beauty
+36,Premium Sneakers (Beauty),554.24,57,196,Samsung,Clothing
+1242,Premium Cookware Set (Clothing),554.77,86,23,Samsung,Electronics
+103,Smart Smartwatch (Electronics),555.29,3,25,L'Oréal,Home & Kitchen
+1023,Premium Cookware Set (Electronics),557.62,12,98,Apple,Sports & Outdoors
+757,Comfortable Cookware Set (Sports & Outdoors),558.56,27,156,Apple,Home & Kitchen
+836,Classic Skincare Set (Beauty),558.77,34,162,KitchenAid,Sports & Outdoors
+233,Premium Yoga Mat (Books),559.13,38,82,Nike,Sports & Outdoors
+1250,Premium Sneakers (Electronics),559.46,42,113,Puma,Books
+1272,Classic Smartwatch (Books),559.46,14,96,KitchenAid,Home & Kitchen
+586,Premium Headphones (Sports & Outdoors),560.53,79,142,KitchenAid,Beauty
+1247,Elegant Bookshelf (Books),560.58,96,42,Nike,Books
+943,Elegant Cookware Set (Books),562.0,68,11,KitchenAid,Electronics
+624,Modern Sneakers (Sports & Outdoors),562.81,38,65,L'Oréal,Clothing
+813,Smart Blender (Books),562.95,20,27,Nike,Sports & Outdoors
+850,Durable Yoga Mat (Electronics),562.97,49,158,AmazonBasics,Sports & Outdoors
+30,Premium Skincare Set (Sports & Outdoors),563.98,5,115,Maybelline,Home & Kitchen
+6,Smart Yoga Mat (Books),564.82,76,158,Sony,Sports & Outdoors
+512,Premium Bookshelf (Electronics),566.8,71,33,Nike,Books
+1015,Durable Sneakers (Clothing),566.88,69,12,L'Oréal,Books
+95,Durable Bookshelf (Home & Kitchen),566.91,90,55,Adidas,Beauty
+539,Comfortable Smartwatch (Home & Kitchen),567.55,31,25,L'Oréal,Clothing
+1006,Premium Sneakers (Electronics),567.67,26,139,Maybelline,Beauty
+328,Smart Skincare Set (Home & Kitchen),570.4,79,143,Samsung,Electronics
+910,Durable Skincare Set (Beauty),570.6,88,113,Apple,Clothing
+1220,Smart Bookshelf (Clothing),570.65,64,95,AmazonBasics,Electronics
+416,Modern Smartwatch (Beauty),570.81,8,118,L'Oréal,Home & Kitchen
+962,Durable Bookshelf (Clothing),571.09,37,160,Apple,Electronics
+1285,Premium Headphones (Home & Kitchen),571.61,37,163,Samsung,Home & Kitchen
+1196,Modern Headphones (Home & Kitchen),571.76,52,50,Nike,Sports & Outdoors
+222,Comfortable Bookshelf (Clothing),571.81,57,99,Adidas,Books
+1120,Comfortable Cookware Set (Home & Kitchen),572.14,9,7,KitchenAid,Home & Kitchen
+1074,Classic Cookware Set (Sports & Outdoors),572.17,19,133,Samsung,Clothing
+801,Classic Smartwatch (Electronics),572.37,30,167,Sony,Books
+621,Comfortable Bookshelf (Clothing),573.41,99,10,Puma,Electronics
+853,Elegant Sneakers (Clothing),573.65,22,75,Adidas,Beauty
+1055,Elegant Cookware Set (Beauty),573.91,43,94,Sony,Sports & Outdoors
+1192,Durable Sneakers (Books),574.63,67,162,Adidas,Clothing
+158,Elegant Blender (Books),576.08,72,182,Apple,Electronics
+845,Premium Sneakers (Electronics),577.11,91,143,Puma,Sports & Outdoors
+767,Comfortable Blender (Electronics),578.06,69,67,Puma,Books
+583,Elegant Smartwatch (Books),578.21,65,92,Maybelline,Sports & Outdoors
+35,Modern Headphones (Electronics),578.29,94,130,AmazonBasics,Electronics
+115,Comfortable Blender (Beauty),578.47,100,45,AmazonBasics,Electronics
+987,Classic Cookware Set (Clothing),579.47,36,27,AmazonBasics,Beauty
+1155,Comfortable Yoga Mat (Electronics),580.66,35,53,Sony,Beauty
+1014,Classic Bookshelf (Home & Kitchen),581.13,40,148,KitchenAid,Sports & Outdoors
+906,Classic Blender (Clothing),582.22,28,39,Adidas,Electronics
+191,Comfortable Yoga Mat (Home & Kitchen),583.55,37,18,L'Oréal,Electronics
+1343,Smart Headphones (Clothing),583.93,22,43,Maybelline,Books
+997,Classic Smartwatch (Home & Kitchen),584.51,28,78,Adidas,Books
+94,Modern Skincare Set (Beauty),584.75,22,198,Samsung,Sports & Outdoors
+1316,Comfortable Bookshelf (Sports & Outdoors),585.48,7,94,AmazonBasics,Clothing
+389,Premium Blender (Sports & Outdoors),586.28,42,174,Sony,Clothing
+442,Durable Smartwatch (Electronics),586.48,54,142,Apple,Clothing
+274,Innovative Bookshelf (Home & Kitchen),586.73,86,108,AmazonBasics,Beauty
+628,Classic Cookware Set (Electronics),587.52,25,127,Nike,Beauty
+1079,Premium Cookware Set (Books),587.75,18,182,Adidas,Home & Kitchen
+832,Comfortable Skincare Set (Home & Kitchen),587.95,32,44,Adidas,Electronics
+526,Classic Skincare Set (Sports & Outdoors),588.59,7,70,Nike,Sports & Outdoors
+364,Modern Blender (Electronics),591.39,29,140,Samsung,Clothing
+146,Smart Cookware Set (Books),592.68,27,67,Maybelline,Electronics
+1329,Smart Smartwatch (Beauty),593.97,83,170,Apple,Electronics
+82,Modern Blender (Home & Kitchen),594.82,98,110,Puma,Books
+538,Classic Cookware Set (Books),595.98,55,97,AmazonBasics,Books
+1189,Modern Smartwatch (Home & Kitchen),596.53,60,90,KitchenAid,Sports & Outdoors
+214,Premium Cookware Set (Electronics),600.06,31,100,Apple,Clothing
+184,Innovative Blender (Home & Kitchen),600.5,88,60,KitchenAid,Sports & Outdoors
+723,Classic Bookshelf (Electronics),601.17,26,168,AmazonBasics,Books
+1116,Elegant Yoga Mat (Clothing),601.66,7,104,Sony,Electronics
+462,Elegant Smartwatch (Clothing),603.49,68,35,Samsung,Sports & Outdoors
+701,Elegant Sneakers (Electronics),604.69,40,62,Samsung,Electronics
+657,Classic Headphones (Books),605.1,50,199,AmazonBasics,Beauty
+244,Innovative Yoga Mat (Electronics),606.37,10,31,AmazonBasics,Sports & Outdoors
+654,Comfortable Cookware Set (Clothing),607.75,70,29,AmazonBasics,Electronics
+1012,Modern Yoga Mat (Books),608.92,40,85,Nike,Clothing
+1284,Modern Headphones (Clothing),609.25,78,33,Nike,Beauty
+1109,Comfortable Sneakers (Home & Kitchen),610.93,86,163,Nike,Clothing
+179,Classic Blender (Clothing),611.96,84,88,Nike,Books
+929,Durable Smartwatch (Electronics),612.38,71,151,Puma,Sports & Outdoors
+973,Innovative Yoga Mat (Home & Kitchen),612.72,8,12,Apple,Books
+112,Classic Smartwatch (Clothing),614.02,15,68,Sony,Electronics
+433,Smart Headphones (Electronics),615.36,49,11,KitchenAid,Clothing
+713,Premium Sneakers (Books),615.52,27,150,Puma,Books
+831,Innovative Headphones (Books),616.31,57,194,AmazonBasics,Beauty
+114,Premium Bookshelf (Home & Kitchen),616.78,16,97,Sony,Sports & Outdoors
+125,Smart Blender (Sports & Outdoors),617.05,64,182,Maybelline,Home & Kitchen
+396,Elegant Yoga Mat (Clothing),617.09,54,168,Apple,Home & Kitchen
+69,Elegant Bookshelf (Books),617.68,10,98,Adidas,Clothing
+1245,Comfortable Blender (Books),619.21,45,163,Nike,Clothing
+1217,Innovative Cookware Set (Electronics),621.13,18,114,Apple,Electronics
+454,Comfortable Yoga Mat (Electronics),621.18,98,200,AmazonBasics,Beauty
+1159,Elegant Blender (Beauty),621.66,38,139,KitchenAid,Beauty
+285,Durable Headphones (Beauty),621.86,85,148,Samsung,Home & Kitchen
+405,Premium Smartwatch (Beauty),622.25,66,15,Adidas,Books
+1213,Modern Bookshelf (Books),622.37,64,164,AmazonBasics,Home & Kitchen
+905,Innovative Cookware Set (Home & Kitchen),623.43,85,163,Apple,Sports & Outdoors
+1066,Comfortable Skincare Set (Beauty),623.46,78,20,AmazonBasics,Beauty
+798,Innovative Sneakers (Beauty),623.83,93,30,Puma,Sports & Outdoors
+650,Classic Smartwatch (Books),623.95,28,137,Adidas,Clothing
+508,Innovative Yoga Mat (Sports & Outdoors),624.23,84,144,Samsung,Beauty
+865,Innovative Skincare Set (Home & Kitchen),624.42,33,114,Sony,Books
+1088,Comfortable Cookware Set (Clothing),625.04,84,103,Adidas,Electronics
+933,Classic Headphones (Books),625.73,99,70,Maybelline,Beauty
+1093,Modern Bookshelf (Electronics),626.68,83,73,KitchenAid,Clothing
+283,Durable Smartwatch (Sports & Outdoors),627.34,91,84,Apple,Sports & Outdoors
+1307,Durable Headphones (Home & Kitchen),627.63,45,106,Maybelline,Books
+759,Innovative Smartwatch (Books),627.97,45,13,Apple,Books
+1322,Premium Bookshelf (Home & Kitchen),628.47,83,129,Adidas,Home & Kitchen
+663,Classic Cookware Set (Electronics),628.71,25,126,Samsung,Home & Kitchen
+268,Premium Yoga Mat (Books),629.06,48,16,AmazonBasics,Home & Kitchen
+1294,Modern Blender (Electronics),629.64,12,189,Nike,Home & Kitchen
+802,Elegant Blender (Clothing),630.21,31,44,Maybelline,Home & Kitchen
+1346,Comfortable Sneakers (Sports & Outdoors),630.27,82,16,Apple,Home & Kitchen
+1212,Smart Bookshelf (Beauty),630.81,29,88,Maybelline,Home & Kitchen
+870,Modern Cookware Set (Home & Kitchen),632.86,68,58,KitchenAid,Beauty
+1124,Premium Blender (Beauty),632.95,64,32,Maybelline,Beauty
+116,Modern Headphones (Home & Kitchen),633.67,71,156,Adidas,Home & Kitchen
+615,Premium Smartwatch (Home & Kitchen),636.7,81,40,KitchenAid,Clothing
+838,Classic Cookware Set (Books),637.22,67,138,KitchenAid,Beauty
+354,Durable Bookshelf (Beauty),638.34,5,162,Puma,Beauty
+1304,Smart Yoga Mat (Electronics),638.45,15,17,Sony,Sports & Outdoors
+726,Elegant Blender (Clothing),638.61,20,117,AmazonBasics,Books
+325,Classic Sneakers (Books),639.82,96,79,KitchenAid,Electronics
+143,Innovative Yoga Mat (Sports & Outdoors),641.46,61,192,KitchenAid,Sports & Outdoors
+495,Modern Headphones (Electronics),641.9,41,189,Adidas,Beauty
+182,Elegant Yoga Mat (Sports & Outdoors),642.72,98,166,Adidas,Home & Kitchen
+379,Classic Headphones (Electronics),643.08,85,144,AmazonBasics,Electronics
+213,Comfortable Sneakers (Home & Kitchen),643.57,41,75,KitchenAid,Books
+824,Innovative Yoga Mat (Electronics),644.91,53,89,AmazonBasics,Books
+9,Innovative Cookware Set (Books),644.99,33,168,Sony,Clothing
+90,Modern Smartwatch (Sports & Outdoors),645.04,71,130,Maybelline,Clothing
+22,Premium Bookshelf (Beauty),645.72,43,187,Maybelline,Books
+722,Smart Cookware Set (Books),646.76,48,73,L'Oréal,Home & Kitchen
+607,Durable Yoga Mat (Clothing),647.31,84,74,KitchenAid,Home & Kitchen
+1236,Comfortable Headphones (Clothing),647.74,4,175,KitchenAid,Home & Kitchen
+276,Elegant Headphones (Sports & Outdoors),648.09,62,25,L'Oréal,Home & Kitchen
+800,Classic Yoga Mat (Sports & Outdoors),649.6,61,81,L'Oréal,Books
+439,Premium Cookware Set (Electronics),650.4,87,39,Apple,Sports & Outdoors
+563,Modern Smartwatch (Clothing),650.59,32,74,Sony,Home & Kitchen
+868,Modern Cookware Set (Books),653.13,78,55,L'Oréal,Clothing
+1255,Classic Smartwatch (Home & Kitchen),653.18,66,127,Samsung,Electronics
+99,Elegant Smartwatch (Books),653.23,57,194,Adidas,Beauty
+855,Premium Skincare Set (Clothing),653.36,83,105,L'Oréal,Beauty
+1129,Classic Headphones (Books),656.08,7,85,KitchenAid,Clothing
+149,Modern Blender (Electronics),656.71,91,35,Nike,Sports & Outdoors
+326,Premium Skincare Set (Sports & Outdoors),656.79,60,23,KitchenAid,Beauty
+484,Comfortable Cookware Set (Sports & Outdoors),657.15,80,132,AmazonBasics,Beauty
+1138,Smart Sneakers (Clothing),657.17,31,131,Maybelline,Clothing
+731,Innovative Cookware Set (Clothing),657.49,95,190,L'Oréal,Beauty
+908,Elegant Skincare Set (Electronics),658.06,30,150,Sony,Clothing
+753,Durable Smartwatch (Sports & Outdoors),658.18,52,28,Sony,Home & Kitchen
+1205,Premium Bookshelf (Home & Kitchen),658.25,12,137,L'Oréal,Books
+939,Innovative Blender (Home & Kitchen),658.57,35,60,Puma,Home & Kitchen
+194,Comfortable Headphones (Beauty),659.24,63,58,Sony,Home & Kitchen
+535,Elegant Headphones (Books),660.34,69,100,Samsung,Sports & Outdoors
+345,Smart Sneakers (Electronics),662.48,76,171,Apple,Beauty
+311,Smart Headphones (Clothing),662.73,19,183,L'Oréal,Books
+91,Modern Sneakers (Books),664.35,12,152,Puma,Home & Kitchen
+1004,Comfortable Cookware Set (Electronics),665.09,50,5,Adidas,Sports & Outdoors
+531,Smart Headphones (Beauty),667.01,41,73,KitchenAid,Beauty
+44,Innovative Bookshelf (Sports & Outdoors),667.88,46,59,Apple,Home & Kitchen
+422,Elegant Cookware Set (Clothing),668.74,94,127,Maybelline,Home & Kitchen
+974,Durable Smartwatch (Clothing),669.56,12,18,Apple,Clothing
+1043,Comfortable Headphones (Beauty),670.3,36,112,Apple,Clothing
+372,Durable Yoga Mat (Clothing),670.32,33,71,AmazonBasics,Beauty
+771,Classic Sneakers (Home & Kitchen),670.74,3,85,AmazonBasics,Electronics
+390,Smart Cookware Set (Books),672.47,11,132,L'Oréal,Clothing
+930,Innovative Skincare Set (Home & Kitchen),672.85,64,181,Puma,Clothing
+208,Elegant Yoga Mat (Home & Kitchen),673.21,95,167,Maybelline,Home & Kitchen
+782,Comfortable Yoga Mat (Electronics),673.41,100,98,Nike,Books
+665,Premium Blender (Electronics),673.43,22,103,L'Oréal,Beauty
+198,Innovative Yoga Mat (Books),673.55,98,3,Apple,Books
+1335,Comfortable Headphones (Books),673.92,91,91,Nike,Electronics
+302,Innovative Cookware Set (Home & Kitchen),674.39,41,127,Adidas,Sports & Outdoors
+955,Smart Skincare Set (Sports & Outdoors),674.8,74,61,Puma,Books
+1099,Classic Headphones (Home & Kitchen),675.29,12,82,Adidas,Clothing
+1185,Comfortable Cookware Set (Electronics),675.86,96,166,Samsung,Clothing
+197,Classic Cookware Set (Clothing),676.08,36,166,Sony,Books
+445,Innovative Bookshelf (Home & Kitchen),677.03,76,89,AmazonBasics,Beauty
+391,Premium Bookshelf (Beauty),677.1,89,71,L'Oréal,Home & Kitchen
+675,Modern Bookshelf (Electronics),677.25,99,115,Puma,Clothing
+117,Smart Cookware Set (Sports & Outdoors),678.4,79,101,Puma,Home & Kitchen
+470,Modern Cookware Set (Electronics),679.16,79,31,KitchenAid,Beauty
+393,Comfortable Skincare Set (Home & Kitchen),679.94,84,49,Samsung,Electronics
+806,Modern Bookshelf (Sports & Outdoors),681.15,13,180,Sony,Home & Kitchen
+19,Premium Skincare Set (Sports & Outdoors),681.28,91,128,AmazonBasics,Beauty
+120,Premium Smartwatch (Sports & Outdoors),681.74,82,46,Nike,Electronics
+177,Classic Cookware Set (Electronics),681.97,76,186,KitchenAid,Sports & Outdoors
+1254,Durable Cookware Set (Home & Kitchen),682.29,44,85,L'Oréal,Electronics
+1268,Modern Sneakers (Books),682.67,92,0,Puma,Books
+1133,Smart Cookware Set (Beauty),683.41,30,3,Apple,Beauty
+993,Innovative Skincare Set (Electronics),685.94,7,90,Nike,Electronics
+235,Comfortable Smartwatch (Books),687.63,9,20,L'Oréal,Sports & Outdoors
+180,Smart Headphones (Home & Kitchen),687.78,51,164,Apple,Sports & Outdoors
+725,Premium Blender (Books),688.05,12,179,Maybelline,Beauty
+706,Classic Skincare Set (Clothing),689.42,64,137,Apple,Clothing
+1312,Durable Headphones (Electronics),689.95,43,66,AmazonBasics,Home & Kitchen
+257,Comfortable Sneakers (Books),690.71,62,133,Samsung,Beauty
+695,Innovative Smartwatch (Sports & Outdoors),692.15,14,4,AmazonBasics,Books
+878,Elegant Blender (Books),692.23,64,147,KitchenAid,Clothing
+58,Elegant Sneakers (Clothing),692.57,60,78,KitchenAid,Home & Kitchen
+140,Comfortable Skincare Set (Clothing),694.18,82,169,Maybelline,Sports & Outdoors
+963,Comfortable Yoga Mat (Clothing),694.25,62,76,Apple,Beauty
+815,Modern Cookware Set (Books),694.58,29,197,Nike,Clothing
+947,Classic Sneakers (Beauty),695.72,52,39,L'Oréal,Electronics
+873,Premium Sneakers (Sports & Outdoors),696.0,16,112,Maybelline,Electronics
+1013,Durable Headphones (Sports & Outdoors),697.73,59,130,KitchenAid,Beauty
+306,Innovative Skincare Set (Electronics),697.78,65,180,Samsung,Clothing
+688,Comfortable Blender (Beauty),698.48,38,185,Samsung,Beauty
+443,Premium Sneakers (Books),700.64,67,60,AmazonBasics,Home & Kitchen
+1225,Modern Bookshelf (Books),701.55,10,174,KitchenAid,Home & Kitchen
+1330,Elegant Smartwatch (Sports & Outdoors),701.71,46,188,Samsung,Sports & Outdoors
+588,Modern Smartwatch (Home & Kitchen),703.31,97,114,Adidas,Books
+1092,Classic Yoga Mat (Home & Kitchen),703.42,76,68,Nike,Clothing
+907,Classic Sneakers (Beauty),703.96,11,104,KitchenAid,Beauty
+397,Classic Skincare Set (Clothing),704.27,77,40,Nike,Clothing
+835,Durable Smartwatch (Clothing),706.78,1,157,Samsung,Books
+820,Modern Blender (Clothing),706.94,100,157,Sony,Books
+744,Smart Skincare Set (Sports & Outdoors),707.19,13,73,KitchenAid,Clothing
+133,Classic Sneakers (Beauty),708.23,100,42,Apple,Clothing
+1341,Comfortable Skincare Set (Electronics),708.5,93,138,Apple,Books
+1179,Elegant Bookshelf (Home & Kitchen),708.59,97,138,Maybelline,Clothing
+1130,Classic Skincare Set (Sports & Outdoors),708.72,79,151,Samsung,Beauty
+493,Classic Headphones (Sports & Outdoors),709.33,56,185,KitchenAid,Books
+121,Comfortable Yoga Mat (Beauty),709.69,30,35,Sony,Books
+892,Classic Skincare Set (Beauty),709.78,11,141,KitchenAid,Clothing
+447,Elegant Cookware Set (Clothing),710.75,32,172,Apple,Sports & Outdoors
+1171,Premium Smartwatch (Books),710.9,15,143,AmazonBasics,Beauty
+162,Premium Blender (Beauty),711.14,14,183,Nike,Home & Kitchen
+510,Smart Headphones (Home & Kitchen),711.5,91,155,Puma,Sports & Outdoors
+275,Comfortable Cookware Set (Beauty),711.61,14,53,Nike,Sports & Outdoors
+1054,Premium Bookshelf (Books),712.42,64,180,KitchenAid,Sports & Outdoors
+265,Comfortable Cookware Set (Sports & Outdoors),712.51,70,44,Puma,Beauty
+937,Elegant Headphones (Home & Kitchen),714.02,42,124,Nike,Sports & Outdoors
+383,Modern Smartwatch (Clothing),714.4,23,89,Sony,Books
+577,Smart Headphones (Books),714.68,8,182,AmazonBasics,Sports & Outdoors
+280,Innovative Cookware Set (Beauty),717.28,33,106,Adidas,Books
+609,Classic Headphones (Beauty),717.45,75,100,Adidas,Home & Kitchen
+670,Comfortable Blender (Books),717.67,33,35,Nike,Home & Kitchen
+817,Modern Skincare Set (Home & Kitchen),717.78,89,54,Maybelline,Sports & Outdoors
+193,Durable Skincare Set (Books),718.72,47,170,Puma,Home & Kitchen
+1281,Elegant Yoga Mat (Books),719.1,100,140,L'Oréal,Clothing
+659,Modern Blender (Books),719.71,39,18,L'Oréal,Electronics
+502,Comfortable Blender (Home & Kitchen),719.88,69,7,KitchenAid,Home & Kitchen
+1123,Comfortable Yoga Mat (Sports & Outdoors),722.45,13,147,AmazonBasics,Clothing
+1324,Durable Yoga Mat (Clothing),722.61,33,200,Adidas,Home & Kitchen
+34,Comfortable Sneakers (Books),722.82,82,136,Apple,Clothing
+642,Innovative Sneakers (Beauty),725.05,9,20,Sony,Beauty
+489,Elegant Smartwatch (Home & Kitchen),725.09,25,2,AmazonBasics,Home & Kitchen
+404,Classic Blender (Home & Kitchen),725.8,17,19,Samsung,Sports & Outdoors
+1259,Smart Headphones (Books),726.96,82,181,L'Oréal,Clothing
+553,Innovative Sneakers (Clothing),727.08,39,25,Samsung,Sports & Outdoors
+791,Premium Bookshelf (Books),728.04,81,170,Samsung,Books
+271,Smart Blender (Home & Kitchen),728.13,65,158,Sony,Books
+1163,Modern Cookware Set (Home & Kitchen),729.29,4,194,Sony,Books
+351,Innovative Bookshelf (Beauty),729.58,96,52,AmazonBasics,Clothing
+23,Innovative Bookshelf (Books),731.73,69,81,Samsung,Home & Kitchen
+511,Premium Bookshelf (Sports & Outdoors),731.99,54,37,L'Oréal,Beauty
+641,Smart Yoga Mat (Clothing),732.61,68,122,AmazonBasics,Electronics
+715,Smart Blender (Books),732.92,35,160,KitchenAid,Clothing
+669,Innovative Blender (Home & Kitchen),734.17,23,177,Sony,Home & Kitchen
+411,Durable Skincare Set (Sports & Outdoors),734.9,37,169,Maybelline,Beauty
+951,Comfortable Blender (Home & Kitchen),735.51,25,34,L'Oréal,Beauty
+803,Modern Cookware Set (Home & Kitchen),736.29,83,163,Puma,Clothing
+558,Smart Skincare Set (Clothing),736.81,17,63,Puma,Sports & Outdoors
+1291,Durable Skincare Set (Sports & Outdoors),737.28,29,131,Samsung,Electronics
+991,Premium Yoga Mat (Electronics),737.75,71,46,L'Oréal,Clothing
+481,Comfortable Bookshelf (Clothing),738.39,31,74,Adidas,Home & Kitchen
+40,Smart Skincare Set (Books),738.57,83,68,Samsung,Beauty
+677,Innovative Cookware Set (Clothing),739.59,93,190,AmazonBasics,Sports & Outdoors
+3,Elegant Smartwatch (Sports & Outdoors),739.72,50,81,Apple,Books
+1170,Innovative Cookware Set (Beauty),741.38,89,185,L'Oréal,Electronics
+363,Innovative Sneakers (Home & Kitchen),742.05,35,52,Adidas,Beauty
+123,Modern Bookshelf (Home & Kitchen),743.93,88,132,Puma,Sports & Outdoors
+1190,Classic Blender (Electronics),743.94,69,131,Apple,Electronics
+1046,Modern Smartwatch (Beauty),744.11,6,0,Sony,Electronics
+219,Durable Smartwatch (Sports & Outdoors),745.27,18,28,Adidas,Electronics
+1210,Elegant Bookshelf (Electronics),745.41,61,70,Puma,Sports & Outdoors
+1218,Comfortable Sneakers (Sports & Outdoors),745.49,99,87,L'Oréal,Sports & Outdoors
+818,Elegant Smartwatch (Sports & Outdoors),746.99,83,99,Apple,Books
+169,Premium Smartwatch (Beauty),747.11,30,193,Sony,Home & Kitchen
+1038,Elegant Cookware Set (Electronics),750.58,32,161,Maybelline,Electronics
+1024,Elegant Bookshelf (Beauty),750.96,44,139,L'Oréal,Home & Kitchen
+668,Elegant Yoga Mat (Electronics),753.67,69,74,Samsung,Sports & Outdoors
+1080,Modern Headphones (Electronics),753.91,24,199,Maybelline,Books
+165,Elegant Cookware Set (Beauty),754.43,95,169,Sony,Electronics
+1348,Smart Blender (Electronics),756.41,83,128,AmazonBasics,Clothing
+900,Smart Sneakers (Books),756.67,15,137,Nike,Home & Kitchen
+1229,Modern Cookware Set (Books),756.95,85,52,KitchenAid,Electronics
+1277,Elegant Yoga Mat (Home & Kitchen),758.05,72,123,AmazonBasics,Books
+894,Durable Sneakers (Clothing),759.61,61,86,KitchenAid,Sports & Outdoors
+1181,Comfortable Blender (Sports & Outdoors),761.0,32,72,Apple,Electronics
+108,Modern Cookware Set (Clothing),761.02,57,173,Adidas,Clothing
+487,Durable Cookware Set (Electronics),761.94,13,127,L'Oréal,Home & Kitchen
+1174,Durable Headphones (Beauty),762.99,46,6,Samsung,Electronics
+251,Premium Cookware Set (Home & Kitchen),763.25,29,146,Sony,Beauty
+78,Classic Sneakers (Beauty),768.72,74,120,KitchenAid,Electronics
+566,Smart Skincare Set (Books),769.1,39,49,Apple,Electronics
+7,Innovative Blender (Clothing),770.25,16,80,Adidas,Home & Kitchen
+877,Comfortable Blender (Sports & Outdoors),770.57,83,133,Apple,Sports & Outdoors
+880,Classic Cookware Set (Home & Kitchen),773.8,75,119,L'Oréal,Home & Kitchen
+1310,Modern Headphones (Beauty),774.37,48,52,Maybelline,Books
+1150,Elegant Headphones (Clothing),776.18,39,61,Apple,Books
+1008,Modern Headphones (Books),776.51,84,165,Puma,Clothing
+474,Elegant Yoga Mat (Sports & Outdoors),776.84,73,32,Nike,Sports & Outdoors
+70,Elegant Bookshelf (Clothing),777.1,10,49,Samsung,Clothing
+826,Comfortable Skincare Set (Clothing),777.81,84,51,Sony,Sports & Outdoors
+385,Premium Bookshelf (Sports & Outdoors),777.97,85,130,L'Oréal,Beauty
+1323,Durable Skincare Set (Electronics),779.07,4,173,Puma,Sports & Outdoors
+635,Elegant Bookshelf (Electronics),780.44,66,107,Samsung,Sports & Outdoors
+1019,Elegant Sneakers (Books),780.81,22,123,Puma,Home & Kitchen
+1315,Premium Yoga Mat (Sports & Outdoors),780.86,76,128,Puma,Electronics
+185,Elegant Skincare Set (Electronics),781.67,95,136,Nike,Books
+410,Smart Sneakers (Electronics),781.84,21,58,L'Oréal,Clothing
+1298,Elegant Smartwatch (Books),784.07,57,5,Nike,Electronics
+230,Comfortable Bookshelf (Sports & Outdoors),785.0,13,127,AmazonBasics,Sports & Outdoors
+727,Classic Headphones (Home & Kitchen),785.52,63,69,Sony,Sports & Outdoors
+307,Smart Cookware Set (Electronics),787.24,96,88,Puma,Home & Kitchen
+252,Comfortable Skincare Set (Clothing),788.09,85,128,Sony,Books
+1050,Elegant Cookware Set (Books),788.25,72,48,Maybelline,Beauty
+1183,Elegant Bookshelf (Home & Kitchen),789.11,80,139,Apple,Electronics
+810,Classic Yoga Mat (Sports & Outdoors),789.34,7,85,Maybelline,Books
+777,Durable Headphones (Books),789.83,81,149,Maybelline,Clothing
+585,Comfortable Yoga Mat (Sports & Outdoors),789.84,28,85,Samsung,Sports & Outdoors
+692,Durable Cookware Set (Sports & Outdoors),790.45,24,11,Sony,Clothing
+201,Innovative Cookware Set (Electronics),790.81,44,128,AmazonBasics,Electronics
+190,Classic Sneakers (Electronics),791.96,87,47,L'Oréal,Clothing
+622,Classic Headphones (Electronics),792.04,60,163,Sony,Beauty
+918,Premium Smartwatch (Electronics),792.16,35,13,L'Oréal,Clothing
+1295,Durable Sneakers (Clothing),792.58,68,48,Maybelline,Home & Kitchen
+1141,Classic Headphones (Home & Kitchen),794.22,16,122,Adidas,Books
+124,Smart Headphones (Books),794.77,71,160,Sony,Beauty
+1075,Comfortable Yoga Mat (Electronics),795.11,34,134,Nike,Beauty
+74,Classic Sneakers (Sports & Outdoors),796.34,29,11,AmazonBasics,Beauty
+85,Modern Smartwatch (Sports & Outdoors),797.35,100,15,Adidas,Electronics
+825,Classic Sneakers (Clothing),797.94,81,110,Apple,Books
+591,Durable Cookware Set (Sports & Outdoors),798.52,70,193,L'Oréal,Home & Kitchen
+72,Innovative Sneakers (Clothing),798.58,43,81,AmazonBasics,Electronics
+518,Innovative Headphones (Home & Kitchen),799.74,44,62,Nike,Beauty
+964,Modern Smartwatch (Beauty),799.86,47,26,Sony,Sports & Outdoors
+286,Classic Skincare Set (Clothing),800.39,50,53,Nike,Sports & Outdoors
+1121,Premium Bookshelf (Clothing),801.39,20,20,Puma,Clothing
+822,Smart Bookshelf (Sports & Outdoors),802.92,75,196,Sony,Home & Kitchen
+80,Comfortable Smartwatch (Sports & Outdoors),804.32,96,128,Apple,Home & Kitchen
+789,Classic Yoga Mat (Clothing),805.33,52,163,Puma,Books
+111,Premium Cookware Set (Clothing),805.81,24,175,Sony,Electronics
+334,Classic Yoga Mat (Home & Kitchen),806.7,41,120,Sony,Sports & Outdoors
+394,Comfortable Cookware Set (Clothing),806.81,8,159,Puma,Beauty
+1125,Premium Skincare Set (Sports & Outdoors),806.94,89,179,L'Oréal,Beauty
+1327,Modern Cookware Set (Beauty),808.66,90,187,Sony,Books
+922,Innovative Bookshelf (Clothing),809.15,42,88,Nike,Sports & Outdoors
+714,Durable Headphones (Books),810.55,62,119,KitchenAid,Books
+284,Durable Sneakers (Books),810.82,10,7,Samsung,Home & Kitchen
+1211,Elegant Headphones (Clothing),812.35,17,128,Sony,Clothing
+310,Innovative Sneakers (Electronics),812.86,77,85,Apple,Clothing
+772,Comfortable Yoga Mat (Home & Kitchen),814.09,60,175,Nike,Sports & Outdoors
+458,Elegant Cookware Set (Books),814.23,2,21,Apple,Electronics
+1208,Durable Blender (Clothing),817.39,6,41,Samsung,Clothing
+323,Elegant Cookware Set (Home & Kitchen),818.08,34,159,Samsung,Electronics
+1226,Innovative Skincare Set (Home & Kitchen),819.77,64,80,Samsung,Beauty
+923,Classic Smartwatch (Beauty),821.36,37,29,KitchenAid,Books
+794,Comfortable Headphones (Clothing),821.41,95,110,Adidas,Clothing
+986,Smart Blender (Clothing),822.21,26,115,Apple,Home & Kitchen
+161,Comfortable Skincare Set (Sports & Outdoors),822.32,7,110,L'Oréal,Books
+1260,Smart Sneakers (Books),822.92,25,24,AmazonBasics,Home & Kitchen
+1078,Comfortable Skincare Set (Books),826.0,57,122,Maybelline,Clothing
+1113,Modern Bookshelf (Sports & Outdoors),826.13,77,180,Samsung,Sports & Outdoors
+212,Premium Sneakers (Electronics),826.19,5,49,Adidas,Home & Kitchen
+565,Elegant Headphones (Home & Kitchen),826.91,76,149,Adidas,Clothing
+211,Smart Blender (Clothing),827.11,38,167,Apple,Books
+1161,Innovative Bookshelf (Beauty),827.52,28,85,Maybelline,Sports & Outdoors
+386,Durable Sneakers (Books),828.75,3,2,Puma,Books
+617,Innovative Skincare Set (Sports & Outdoors),829.65,30,186,L'Oréal,Books
+852,Comfortable Sneakers (Home & Kitchen),830.27,45,148,Sony,Sports & Outdoors
+1044,Elegant Yoga Mat (Books),830.69,24,158,Samsung,Sports & Outdoors
+843,Elegant Cookware Set (Clothing),830.74,23,168,KitchenAid,Books
+202,Innovative Smartwatch (Sports & Outdoors),831.15,49,65,Nike,Sports & Outdoors
+833,Classic Cookware Set (Home & Kitchen),831.73,39,85,Maybelline,Books
+500,Innovative Headphones (Home & Kitchen),833.03,16,92,Puma,Electronics
+392,Comfortable Blender (Clothing),833.91,2,126,KitchenAid,Electronics
+683,Premium Bookshelf (Clothing),835.01,100,194,Adidas,Books
+166,Premium Smartwatch (Beauty),835.83,48,21,KitchenAid,Home & Kitchen
+681,Premium Blender (Clothing),835.84,66,179,KitchenAid,Sports & Outdoors
+678,Comfortable Cookware Set (Books),835.89,55,43,Maybelline,Clothing
+1084,Classic Sneakers (Clothing),835.95,25,18,Sony,Sports & Outdoors
+990,Modern Smartwatch (Books),836.5,22,127,AmazonBasics,Books
+1101,Innovative Sneakers (Home & Kitchen),837.02,76,185,Samsung,Home & Kitchen
+352,Classic Yoga Mat (Clothing),837.19,49,146,AmazonBasics,Electronics
+733,Modern Bookshelf (Beauty),838.21,12,173,Apple,Beauty
+970,Classic Skincare Set (Sports & Outdoors),838.77,86,93,Apple,Books
+89,Innovative Cookware Set (Sports & Outdoors),839.12,70,123,L'Oréal,Electronics
+804,Elegant Bookshelf (Sports & Outdoors),839.61,88,186,Sony,Home & Kitchen
+315,Durable Bookshelf (Books),840.08,27,100,Sony,Clothing
+882,Innovative Bookshelf (Clothing),840.16,68,23,Sony,Beauty
+425,Modern Blender (Clothing),841.05,47,128,Adidas,Books
+1165,Comfortable Skincare Set (Home & Kitchen),842.52,46,180,Adidas,Home & Kitchen
+1107,Modern Bookshelf (Books),844.2,27,94,KitchenAid,Electronics
+1045,Classic Cookware Set (Books),844.89,15,4,Sony,Home & Kitchen
+1336,Durable Headphones (Clothing),844.92,25,4,L'Oréal,Beauty
+690,Comfortable Cookware Set (Books),845.25,8,110,Adidas,Electronics
+602,Smart Cookware Set (Sports & Outdoors),846.04,26,156,Apple,Clothing
+618,Premium Blender (Clothing),846.67,10,4,L'Oréal,Electronics
+751,Modern Skincare Set (Beauty),847.07,25,34,Nike,Electronics
+592,Smart Blender (Books),847.3,53,158,AmazonBasics,Electronics
+105,Smart Headphones (Home & Kitchen),847.71,43,88,Puma,Sports & Outdoors
+273,Innovative Skincare Set (Clothing),849.06,9,108,Adidas,Home & Kitchen
+694,Comfortable Headphones (Clothing),850.12,11,86,Puma,Electronics
+864,Elegant Smartwatch (Electronics),850.31,80,124,Apple,Home & Kitchen
+248,Elegant Skincare Set (Electronics),850.6,65,107,Nike,Sports & Outdoors
+854,Comfortable Headphones (Books),850.64,18,163,Adidas,Home & Kitchen
+863,Innovative Cookware Set (Electronics),852.91,15,59,L'Oréal,Home & Kitchen
+1269,Elegant Sneakers (Electronics),854.16,56,65,Sony,Home & Kitchen
+42,Elegant Headphones (Beauty),854.98,76,189,Apple,Electronics
+1136,Smart Bookshelf (Sports & Outdoors),855.53,12,30,Nike,Home & Kitchen
+912,Modern Blender (Sports & Outdoors),855.63,90,104,Puma,Clothing
+243,Classic Yoga Mat (Clothing),857.22,92,86,Adidas,Beauty
+1261,Elegant Blender (Sports & Outdoors),858.12,83,131,L'Oréal,Sports & Outdoors
+1224,Premium Sneakers (Beauty),858.51,54,104,AmazonBasics,Electronics
+904,Smart Cookware Set (Beauty),858.9,23,155,Apple,Home & Kitchen
+260,Classic Skincare Set (Home & Kitchen),859.13,77,146,KitchenAid,Clothing
+743,Durable Skincare Set (Sports & Outdoors),859.36,18,182,Adidas,Beauty
+402,Premium Headphones (Books),859.4,37,81,Adidas,Clothing
+232,Durable Cookware Set (Books),859.43,7,182,L'Oréal,Clothing
+1182,Innovative Blender (Electronics),859.97,2,195,Maybelline,Clothing
+1111,Comfortable Blender (Beauty),861.21,43,16,Sony,Books
+199,Elegant Smartwatch (Clothing),861.48,11,82,Puma,Sports & Outdoors
+289,Classic Skincare Set (Books),862.76,7,193,Sony,Books
+915,Premium Yoga Mat (Clothing),863.36,65,41,Adidas,Sports & Outdoors
+647,Innovative Skincare Set (Books),864.44,37,32,KitchenAid,Clothing
+619,Innovative Sneakers (Home & Kitchen),864.8,91,162,Adidas,Electronics
+436,Premium Headphones (Books),865.81,71,123,Apple,Books
+1148,Comfortable Yoga Mat (Home & Kitchen),865.92,81,117,AmazonBasics,Sports & Outdoors
+366,Smart Cookware Set (Electronics),867.08,50,40,KitchenAid,Books
+48,Innovative Headphones (Books),867.38,21,120,Maybelline,Clothing
+203,Innovative Skincare Set (Sports & Outdoors),867.41,9,102,Puma,Books
+1089,Elegant Bookshelf (Electronics),869.53,57,14,Adidas,Electronics
+92,Premium Skincare Set (Beauty),869.57,94,184,Puma,Clothing
+784,Elegant Bookshelf (Electronics),870.32,78,185,Sony,Beauty
+1001,Comfortable Skincare Set (Beauty),870.45,51,150,Maybelline,Home & Kitchen
+135,Innovative Sneakers (Books),871.92,69,148,KitchenAid,Books
+1227,Innovative Smartwatch (Electronics),873.07,9,23,Maybelline,Clothing
+1344,Classic Smartwatch (Clothing),873.34,62,32,AmazonBasics,Sports & Outdoors
+314,Smart Cookware Set (Beauty),873.57,86,101,Adidas,Clothing
+716,Elegant Headphones (Sports & Outdoors),873.92,86,23,Adidas,Beauty
+1342,Durable Yoga Mat (Electronics),874.93,20,21,Nike,Home & Kitchen
+746,Modern Smartwatch (Books),875.06,21,102,KitchenAid,Beauty
+1062,Modern Smartwatch (Sports & Outdoors),878.31,13,138,Apple,Sports & Outdoors
+501,Classic Yoga Mat (Electronics),878.62,91,167,Puma,Clothing
+1151,Durable Blender (Clothing),879.07,29,1,Samsung,Books
+941,Elegant Headphones (Electronics),879.64,43,196,Puma,Books
+821,Durable Bookshelf (Beauty),880.99,52,101,Apple,Sports & Outdoors
+827,Innovative Headphones (Books),881.23,9,193,L'Oréal,Beauty
+10,Elegant Yoga Mat (Books),881.43,38,51,Nike,Home & Kitchen
+13,Innovative Sneakers (Clothing),884.77,24,62,AmazonBasics,Electronics
+924,Classic Yoga Mat (Books),885.26,83,25,L'Oréal,Home & Kitchen
+1239,Classic Skincare Set (Books),886.05,58,149,Apple,Beauty
+152,Elegant Skincare Set (Sports & Outdoors),886.37,2,162,Sony,Beauty
+17,Classic Headphones (Beauty),887.15,100,188,Puma,Beauty
+1275,Innovative Headphones (Home & Kitchen),887.64,90,117,Puma,Electronics
+163,Comfortable Blender (Beauty),887.77,80,122,Samsung,Electronics
+515,Classic Cookware Set (Beauty),888.35,74,187,Nike,Sports & Outdoors
+537,Comfortable Sneakers (Sports & Outdoors),889.6,74,111,Sony,Electronics
+1146,Innovative Yoga Mat (Beauty),889.92,71,34,Nike,Sports & Outdoors
+365,Comfortable Headphones (Beauty),890.18,55,12,Sony,Home & Kitchen
+1308,Smart Bookshelf (Clothing),890.6,39,114,KitchenAid,Home & Kitchen
+1127,Innovative Yoga Mat (Books),891.52,26,11,Apple,Beauty
+73,Modern Headphones (Sports & Outdoors),891.81,86,32,Puma,Beauty
+448,Classic Skincare Set (Books),892.86,21,77,Puma,Books
+281,Durable Bookshelf (Books),893.45,47,81,KitchenAid,Books
+1286,Premium Sneakers (Beauty),893.94,40,154,Nike,Beauty
+375,Comfortable Skincare Set (Clothing),894.28,3,104,Apple,Clothing
+866,Modern Blender (Clothing),894.76,64,193,Puma,Books
+889,Innovative Sneakers (Home & Kitchen),894.89,10,50,KitchenAid,Beauty
+287,Smart Bookshelf (Beauty),896.35,57,122,L'Oréal,Home & Kitchen
+216,Elegant Yoga Mat (Electronics),896.52,42,37,KitchenAid,Clothing
+245,Premium Blender (Electronics),896.88,73,147,Adidas,Electronics
+1134,Smart Headphones (Home & Kitchen),897.05,47,124,Nike,Beauty
+630,Comfortable Yoga Mat (Sports & Outdoors),897.7,66,186,Samsung,Beauty
+895,Durable Bookshelf (Beauty),897.76,39,18,Adidas,Electronics
+968,Innovative Headphones (Home & Kitchen),898.22,39,180,Maybelline,Electronics
+1292,Comfortable Yoga Mat (Clothing),898.47,90,164,Sony,Books
+554,Comfortable Cookware Set (Home & Kitchen),899.43,93,15,Adidas,Home & Kitchen
+844,Smart Sneakers (Home & Kitchen),899.56,69,189,Adidas,Sports & Outdoors
+521,Modern Blender (Electronics),900.24,65,130,KitchenAid,Sports & Outdoors
+774,Smart Cookware Set (Electronics),900.56,7,48,Apple,Clothing
+147,Elegant Skincare Set (Sports & Outdoors),900.92,2,52,Nike,Electronics
+384,Durable Headphones (Beauty),901.12,30,195,Samsung,Sports & Outdoors
+1168,Elegant Yoga Mat (Beauty),901.2,94,120,Apple,Clothing
+1207,Elegant Blender (Clothing),901.26,48,35,Maybelline,Beauty
+1108,Modern Cookware Set (Books),901.63,56,174,Samsung,Sports & Outdoors
+210,Classic Smartwatch (Books),901.71,30,154,Samsung,Clothing
+1057,Classic Blender (Beauty),901.71,55,152,L'Oréal,Beauty
+491,Classic Headphones (Beauty),902.71,56,82,L'Oréal,Sports & Outdoors
+107,Comfortable Sneakers (Sports & Outdoors),903.28,4,182,Adidas,Books
+575,Premium Smartwatch (Home & Kitchen),903.98,40,0,Apple,Electronics
+11,Premium Blender (Electronics),904.41,3,16,Maybelline,Electronics
+406,Comfortable Smartwatch (Beauty),905.09,4,177,Apple,Books
+1087,Premium Yoga Mat (Sports & Outdoors),906.18,29,148,L'Oréal,Clothing
+1311,Innovative Skincare Set (Beauty),906.68,71,45,Adidas,Beauty
+426,Durable Headphones (Electronics),906.87,73,117,Apple,Beauty
+5,Innovative Bookshelf (Beauty),907.03,7,119,Nike,Beauty
+299,Durable Sneakers (Beauty),907.15,59,45,L'Oréal,Clothing
+666,Durable Smartwatch (Home & Kitchen),907.3,19,58,Adidas,Sports & Outdoors
+623,Premium Sneakers (Beauty),908.54,4,94,Samsung,Beauty
+768,Modern Cookware Set (Clothing),909.68,57,14,Adidas,Sports & Outdoors
+876,Elegant Skincare Set (Books),910.13,87,197,Nike,Home & Kitchen
+869,Comfortable Cookware Set (Electronics),910.34,18,184,AmazonBasics,Sports & Outdoors
+676,Premium Skincare Set (Beauty),911.11,39,193,Sony,Books
+464,Classic Smartwatch (Beauty),912.72,24,87,L'Oréal,Books
+420,Classic Bookshelf (Sports & Outdoors),912.81,39,83,Apple,Beauty
+1309,Comfortable Blender (Home & Kitchen),913.55,55,140,Samsung,Home & Kitchen
+1231,Classic Yoga Mat (Electronics),914.83,38,124,Apple,Beauty
+497,Modern Yoga Mat (Books),915.14,44,53,Apple,Beauty
+734,Modern Cookware Set (Electronics),916.38,10,112,Apple,Sports & Outdoors
+293,Classic Sneakers (Clothing),919.34,79,133,KitchenAid,Electronics
+1166,Durable Blender (Books),921.16,94,143,KitchenAid,Beauty
+544,Elegant Blender (Sports & Outdoors),924.12,42,57,L'Oréal,Books
+983,Comfortable Headphones (Sports & Outdoors),924.31,57,5,AmazonBasics,Clothing
+1025,Premium Bookshelf (Clothing),924.82,34,153,KitchenAid,Home & Kitchen
+204,Premium Sneakers (Clothing),925.39,73,127,Apple,Sports & Outdoors
+319,Smart Blender (Clothing),925.63,48,89,Apple,Electronics
+956,Classic Yoga Mat (Clothing),926.01,67,199,AmazonBasics,Clothing
+205,Modern Sneakers (Electronics),927.26,52,108,Apple,Books
+1058,Comfortable Skincare Set (Clothing),928.24,28,36,Maybelline,Sports & Outdoors
+241,Comfortable Blender (Sports & Outdoors),929.19,41,144,AmazonBasics,Electronics
+1132,Innovative Headphones (Sports & Outdoors),929.68,84,188,Maybelline,Beauty
+640,Modern Skincare Set (Clothing),930.41,41,167,Apple,Sports & Outdoors
+292,Comfortable Skincare Set (Beauty),930.59,16,108,KitchenAid,Clothing
+898,Innovative Smartwatch (Home & Kitchen),931.65,15,116,Maybelline,Home & Kitchen
+296,Innovative Sneakers (Beauty),932.2,31,135,AmazonBasics,Home & Kitchen
+1105,Elegant Skincare Set (Books),932.61,53,144,Nike,Clothing
+775,Smart Skincare Set (Home & Kitchen),933.64,19,8,AmazonBasics,Books
+1289,Classic Cookware Set (Books),934.62,14,132,Samsung,Sports & Outdoors
+632,Smart Headphones (Beauty),934.88,35,137,Nike,Clothing
+530,Innovative Blender (Sports & Outdoors),935.18,86,46,Nike,Sports & Outdoors
+1016,Comfortable Headphones (Home & Kitchen),935.93,14,22,Adidas,Sports & Outdoors
+897,Elegant Yoga Mat (Electronics),935.99,16,192,Nike,Electronics
+1154,Smart Yoga Mat (Home & Kitchen),936.3,44,163,Sony,Home & Kitchen
+388,Comfortable Cookware Set (Clothing),938.95,21,113,Puma,Beauty
+1147,Modern Blender (Home & Kitchen),939.23,60,75,Apple,Clothing
+551,Smart Sneakers (Home & Kitchen),939.27,34,2,Samsung,Sports & Outdoors
+490,Smart Smartwatch (Electronics),940.18,49,99,KitchenAid,Electronics
+333,Comfortable Skincare Set (Books),940.45,93,53,Samsung,Electronics
+246,Comfortable Smartwatch (Electronics),941.29,83,90,Adidas,Electronics
+181,Modern Smartwatch (Beauty),941.69,72,161,L'Oréal,Clothing
+412,Innovative Smartwatch (Sports & Outdoors),942.55,68,96,Adidas,Beauty
+192,Elegant Bookshelf (Home & Kitchen),943.6,35,31,Adidas,Electronics
+765,Durable Smartwatch (Clothing),943.84,35,169,Adidas,Clothing
+842,Smart Yoga Mat (Electronics),944.04,65,159,Sony,Electronics
+459,Classic Skincare Set (Books),945.14,99,179,Sony,Clothing
+259,Elegant Cookware Set (Sports & Outdoors),945.15,25,24,AmazonBasics,Home & Kitchen
+451,Innovative Yoga Mat (Sports & Outdoors),948.82,25,128,Maybelline,Clothing
+220,Premium Yoga Mat (Sports & Outdoors),949.85,8,143,Sony,Books
+1234,Durable Smartwatch (Clothing),956.51,36,174,Maybelline,Books
+261,Innovative Skincare Set (Home & Kitchen),959.06,98,192,Adidas,Home & Kitchen
+1251,Innovative Cookware Set (Electronics),959.09,35,171,KitchenAid,Electronics
+1137,Classic Skincare Set (Beauty),959.12,91,113,Sony,Home & Kitchen
+697,Innovative Cookware Set (Home & Kitchen),959.6,92,73,Puma,Clothing
+516,Premium Smartwatch (Beauty),960.67,55,176,Adidas,Clothing
+14,Comfortable Smartwatch (Home & Kitchen),960.76,74,33,AmazonBasics,Electronics
+1201,Premium Blender (Clothing),961.94,51,50,Sony,Electronics
+291,Innovative Blender (Clothing),962.44,72,18,Apple,Electronics
+355,Smart Yoga Mat (Sports & Outdoors),962.76,56,92,Sony,Electronics
+278,Classic Yoga Mat (Home & Kitchen),964.15,43,103,KitchenAid,Beauty
+761,Smart Skincare Set (Electronics),964.69,13,184,Sony,Clothing
+46,Premium Blender (Sports & Outdoors),965.0,93,105,Nike,Sports & Outdoors
+1036,Elegant Cookware Set (Clothing),966.11,38,131,Adidas,Sports & Outdoors
+940,Modern Blender (Electronics),966.6,18,1,Nike,Clothing
+215,Smart Headphones (Sports & Outdoors),967.08,2,8,Maybelline,Home & Kitchen
+732,Modern Bookshelf (Books),968.26,56,41,Samsung,Clothing
+978,Smart Bookshelf (Clothing),968.38,36,167,Samsung,Beauty
+1022,Premium Cookware Set (Home & Kitchen),968.44,65,86,Adidas,Clothing
+76,Comfortable Cookware Set (Clothing),969.21,80,142,Puma,Home & Kitchen
+61,Classic Sneakers (Home & Kitchen),969.34,64,37,KitchenAid,Sports & Outdoors
+473,Comfortable Bookshelf (Clothing),969.5,95,165,L'Oréal,Sports & Outdoors
+341,Premium Sneakers (Books),969.68,77,181,Puma,Electronics
+917,Comfortable Skincare Set (Clothing),971.36,7,90,Maybelline,Sports & Outdoors
+1071,Elegant Sneakers (Beauty),972.9,9,81,Nike,Books
+360,Elegant Blender (Clothing),976.04,55,173,KitchenAid,Sports & Outdoors
+613,Comfortable Skincare Set (Books),976.34,25,102,Nike,Electronics
+106,Classic Cookware Set (Clothing),977.07,81,39,Samsung,Sports & Outdoors
+971,Premium Yoga Mat (Books),977.12,5,76,L'Oréal,Beauty
+55,Classic Skincare Set (Sports & Outdoors),978.38,70,45,Adidas,Clothing
+546,Elegant Skincare Set (Electronics),978.43,53,86,Samsung,Clothing
+1296,Modern Bookshelf (Electronics),979.49,21,39,Sony,Sports & Outdoors
+413,Classic Cookware Set (Sports & Outdoors),979.82,71,156,Samsung,Beauty
+946,Innovative Sneakers (Books),980.15,11,72,Maybelline,Clothing
+543,Durable Smartwatch (Beauty),980.4,55,23,Samsung,Clothing
+1347,Elegant Bookshelf (Electronics),980.89,23,11,Adidas,Books
+1172,Smart Skincare Set (Electronics),983.33,22,12,Samsung,Electronics
+441,Elegant Skincare Set (Clothing),983.42,54,34,Nike,Sports & Outdoors
+478,Premium Smartwatch (Electronics),983.83,77,45,L'Oréal,Electronics
+679,Modern Smartwatch (Electronics),983.85,56,158,Maybelline,Clothing
+320,Modern Headphones (Clothing),985.13,37,121,Maybelline,Home & Kitchen
+1085,Comfortable Sneakers (Electronics),986.4,59,197,Maybelline,Beauty
+969,Smart Headphones (Books),986.46,61,0,Puma,Beauty
+1202,Elegant Smartwatch (Electronics),986.67,4,170,Maybelline,Home & Kitchen
+270,Innovative Smartwatch (Books),988.26,84,17,Adidas,Electronics
+29,Premium Bookshelf (Home & Kitchen),988.81,5,86,Maybelline,Clothing
+407,Smart Smartwatch (Beauty),988.94,18,3,Maybelline,Clothing
+770,Modern Yoga Mat (Sports & Outdoors),990.18,25,160,Sony,Books
+702,Innovative Bookshelf (Electronics),990.27,76,140,Sony,Electronics
+1219,Comfortable Yoga Mat (Beauty),990.3,41,24,Puma,Sports & Outdoors
+428,Innovative Bookshelf (Beauty),991.12,86,158,Adidas,Beauty
+26,Modern Yoga Mat (Electronics),991.14,3,29,Maybelline,Electronics
+691,Elegant Skincare Set (Sports & Outdoors),991.31,48,32,Samsung,Books
+176,Innovative Headphones (Sports & Outdoors),993.21,44,84,AmazonBasics,Clothing
+370,Classic Skincare Set (Beauty),993.96,15,77,Adidas,Beauty
+569,Smart Sneakers (Books),994.79,73,96,L'Oréal,Clothing
+157,Classic Yoga Mat (Electronics),995.56,68,71,L'Oréal,Electronics
+318,Elegant Blender (Books),995.64,7,164,Maybelline,Clothing
+331,Elegant Cookware Set (Electronics),997.82,22,68,Apple,Clothing
+144,Durable Bookshelf (Home & Kitchen),998.89,12,17,Samsung,Home & Kitchen
+1246,Comfortable Blender (Electronics),999.47,49,50,AmazonBasics,Books
